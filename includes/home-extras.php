@@ -126,11 +126,11 @@
             <div class="lg:col-span-6 relative h-[500px] lg:h-[640px] gs-reveal-img-group">
                 <div class="absolute top-0 left-0 w-[60%] h-[70%] img-reveal-wrapper shadow-2xl z-10 gs-reveal-img">
                     <div class="img-reveal-overlay"></div>
-                    <img src="https://refineskinandbody.com/images/refine_skin_and_body_clinic_dermatology01.webp" alt="Refine treatment" class="img-parallax object-cover w-full h-full" loading="lazy">
+                    <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Refine treatment" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
                 <div class="absolute bottom-0 right-0 w-[55%] h-[60%] img-reveal-wrapper shadow-2xl z-20 border-4 border-white gs-reveal-img gs-delay-1">
                     <div class="img-reveal-overlay"></div>
-                    <img src="https://refineskinandbody.com/images/about2026.webp" alt="Refine interior" class="img-parallax object-cover w-full h-full" loading="lazy">
+                    <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Refine interior" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
                 <div class="absolute top-8 right-4 z-30 glass-panel rounded-2xl p-4 max-w-[180px] gs-reveal-fade gs-delay-2">
                     <p class="font-display text-3xl text-brand-deeper leading-none">15+</p>

@@ -14,9 +14,7 @@
         <div class="grid lg:grid-cols-12 gap-12 lg:gap-16 pb-16 border-b border-white/10">
             <div class="lg:col-span-7">
                 <a href="/" class="inline-block mb-6">
-                    <h2 class="font-display text-4xl lg:text-5xl tracking-wider text-white leading-none">
-                        REFINE <span class="text-accent italic font-light">Clinic.</span>
-                    </h2>
+                    <img src="/assets/refine-logo.png" alt="Refine Clinic Logo" class="h-12 w-auto object-contain">
                 </a>
                 <p class="font-display text-2xl lg:text-3xl text-white/85 leading-snug mb-6 max-w-2xl text-balance">
                     East Africa's premier destination for <i class="text-accent font-light">aesthetic, dermatological &amp; wellness care.</i>

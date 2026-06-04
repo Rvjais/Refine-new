@@ -49,13 +49,13 @@
                 <!-- Main Image -->
                 <div class="absolute top-0 right-0 w-[85%] h-[85%] img-reveal-wrapper shadow-2xl z-10 gs-reveal-img">
                     <div class="img-reveal-overlay"></div>
-                    <img src="https://refineskinandbody.com/images/about2026.webp" alt="Refine Clinic Interior" class="img-parallax object-cover w-full h-full transition-all duration-1000" loading="lazy">
+                    <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Refine Clinic Interior" class="img-parallax object-cover w-full h-full transition-all duration-1000" loading="lazy">
                 </div>
 
                 <!-- Secondary Image overlay -->
                 <div class="absolute bottom-0 left-0 w-[45%] h-[55%] img-reveal-wrapper shadow-2xl z-20 border-4 border-surface-warm gs-reveal-img gs-delay-1">
                     <div class="img-reveal-overlay"></div>
-                    <img src="https://refineskinandbody.com/images/refine_skin_and_body_clinic_dermatology01.webp" alt="Treatment Detail" class="img-parallax object-cover w-full h-full" loading="lazy">
+                    <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Treatment Detail" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
 
                 <!-- Glassmorphism Floating Stat -->

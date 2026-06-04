@@ -24,7 +24,7 @@
             
             <!-- Large Focus Feature (Cosmetic Derm) -->
             <a href="cosmetic-dermatology-kampala-juba" class="bento-item bento-large group">
-                <img src="https://refineskinandbody.com/images/Refine-hydra-facial.webp" alt="Cosmetic Dermatology" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
+                <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Cosmetic Dermatology" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
                 <div class="absolute inset-0 bg-brand-deeper/20 group-hover:bg-brand-deeper/10 transition-colors duration-500"></div>
                 <div class="bento-content">
                     <span class="inline-block px-3 py-1 bg-white/20 rounded-full text-[10px] uppercase tracking-widest text-white font-semibold mb-4">Cosmetic</span>
@@ -38,7 +38,7 @@
 
             <!-- Standard Box (Acne) -->
             <a href="acne-treatment-kampala-juba" class="bento-item group">
-                <img src="https://refineskinandbody.com/images/Acne.webp" alt="Acne Treatment" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
+                <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Acne Treatment" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
                 <div class="bento-content">
                     <span class="inline-block px-3 py-1 bg-brand/80 rounded-full text-[10px] uppercase tracking-widest text-white font-semibold mb-3">Medical</span>
                     <h3 class="font-display text-2xl text-white mb-2">Acne Care</h3>
@@ -48,7 +48,7 @@
 
             <!-- Standard Box (Laser Hair) -->
             <a href="laser-hair-removal-in-uganda-kampala-juba" class="bento-item group">
-                <img src="https://refineskinandbody.com/images/Refine-laser-hair-removal.webp" alt="Laser Hair Removal" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
+                <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Laser Hair Removal" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
                 <div class="bento-content">
                     <span class="inline-block px-3 py-1 bg-brand/80 rounded-full text-[10px] uppercase tracking-widest text-white font-semibold mb-3">Laser</span>
                     <h3 class="font-display text-2xl text-white mb-2">Hair Removal</h3>
@@ -58,7 +58,7 @@
 
             <!-- Wide Box (IV Lounge) -->
             <a href="refine-iv-lounge-kampala-juba" class="bento-item bento-wide group">
-                <img src="https://refineskinandbody.com/images/refine_skin_and_body_clinic_welcome-to1.webp" alt="IV Lounge" class="absolute inset-0 w-full h-full object-cover object-top" loading="lazy">
+                <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="IV Lounge" class="absolute inset-0 w-full h-full object-cover object-top" loading="lazy">
                 <div class="bento-content">
                     <span class="inline-block px-3 py-1 bg-brand/80 rounded-full text-[10px] uppercase tracking-widest text-white font-semibold mb-3">Wellness</span>
                     <h3 class="font-display text-2xl md:text-3xl text-white mb-2">IV Therapy Lounge</h3>
@@ -71,7 +71,7 @@
 
             <!-- Wide Box (Anti-Aging) -->
             <a href="botox-anti-aging-treatment-kampala-juba" class="bento-item bento-wide group">
-                <img src="https://refineskinandbody.com/images/Refine-skin-tightening.webp" alt="Anti-Aging" class="absolute inset-0 w-full h-full object-cover object-top" loading="lazy">
+                <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Anti-Aging" class="absolute inset-0 w-full h-full object-cover object-top" loading="lazy">
                 <div class="bento-content">
                     <span class="inline-block px-3 py-1 bg-brand/80 rounded-full text-[10px] uppercase tracking-widest text-white font-semibold mb-3">Anti-Aging</span>
                     <h3 class="font-display text-2xl md:text-3xl text-white mb-2">Advanced Anti-Aging</h3>
@@ -84,7 +84,7 @@
 
             <!-- Standard Box (Double Chin) -->
             <a href="double-chin-treatment-kampala-juba" class="bento-item group">
-                <img src="https://refineskinandbody.com/images/Refine-double-chin.webp" alt="Body Contouring" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
+                <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Body Contouring" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
                 <div class="bento-content">
                     <span class="inline-block px-3 py-1 bg-brand/80 rounded-full text-[10px] uppercase tracking-widest text-white font-semibold mb-3">Body</span>
                     <h3 class="font-display text-2xl text-white mb-2">Contouring</h3>
@@ -94,7 +94,7 @@
 
             <!-- Standard Box (Tattoo Removal) -->
             <a href="laser-tattoo-removal-in-uganda-kampala-juba" class="bento-item group">
-                <img src="https://refineskinandbody.com/images/Refine-laser-attoo-removal.webp" alt="Tattoo Removal" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
+                <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Tattoo Removal" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
                 <div class="bento-content">
                     <span class="inline-block px-3 py-1 bg-brand/80 rounded-full text-[10px] uppercase tracking-widest text-white font-semibold mb-3">Laser</span>
                     <h3 class="font-display text-2xl text-white mb-2">Tattoo Removal</h3>
@@ -104,7 +104,7 @@
             
             <!-- Wide Box (Medical Dermatology) -->
             <a href="medical-dermatology-kampala-juba" class="bento-item bento-wide group">
-                <img src="https://refineskinandbody.com/images/refine_skin_and_body_clinic_dermatology01.webp" alt="Medical Dermatology" class="absolute inset-0 w-full h-full object-cover object-center" loading="lazy">
+                <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Medical Dermatology" class="absolute inset-0 w-full h-full object-cover object-center" loading="lazy">
                 <div class="bento-content">
                     <span class="inline-block px-3 py-1 bg-brand/80 rounded-full text-[10px] uppercase tracking-widest text-white font-semibold mb-3">Clinical</span>
                     <h3 class="font-display text-2xl md:text-3xl text-white mb-2">Medical Dermatology</h3>
@@ -117,7 +117,7 @@
 
             <!-- Wide Box (Hair Restoration) -->
             <a href="hair-transplant-kampala-juba" class="bento-item bento-wide group">
-                <img src="https://refineskinandbody.com/images/about2026.webp" alt="Hair Restoration" class="absolute inset-0 w-full h-full object-cover object-top" loading="lazy">
+                <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Hair Restoration" class="absolute inset-0 w-full h-full object-cover object-top" loading="lazy">
                 <div class="absolute inset-0 bg-brand-deeper/30 group-hover:bg-brand-deeper/10 transition-colors duration-500"></div>
                 <div class="bento-content">
                     <span class="inline-block px-3 py-1 bg-brand/80 rounded-full text-[10px] uppercase tracking-widest text-white font-semibold mb-3">Restoration</span>
