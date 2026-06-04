@@ -1,0 +1,17 @@
+RewriteEngine On
+
+# Set the default index file
+DirectoryIndex index.php
+
+# Handle 301 Redirects
+RewriteRule ^body-contouring-kampala-juba/?$ /body-contouring [R=301,L]
+
+# Redirect trailing slashes to non-trailing slashes (optional, but good for SEO)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /$1 [R=301,L]
+
+# Internally route clean URLs to .php files
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]
