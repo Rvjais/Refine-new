@@ -8,9 +8,7 @@
             <!-- SLIDE 1 (Video Banner) -->
             <div class="swiper-slide">
                 <div class="w-full h-full relative img-duotone">
-                    <video autoplay loop muted playsinline class="img-parallax" data-swiper-parallax="-20%">
-                        <source src="https://assets.mixkit.co/videos/preview/mixkit-woman-rubbing-cream-on-her-face-4198-large.mp4" type="video/mp4">
-                    </video>
+                    <img src="/assets/imagesfromsite/bg-02.webp" alt="Refine Skin Clinic" class="img-parallax" data-swiper-parallax="-20%" loading="eager">
                     <div class="hero-overlay-gradient"></div>
                     
                     <div class="absolute inset-0 flex items-center z-10 pt-20">
