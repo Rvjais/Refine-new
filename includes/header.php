@@ -23,7 +23,8 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
             <!-- Logo -->
             <a href="/" class="flex-shrink-0 relative z-10 group">
-                <img src="/assets/images/refine-logo.png" alt="Refine Clinic Logo" class="h-10 w-auto object-contain transition-all duration-300">
+                <img src="/assets/imagesfromsite/refine-logo-white.webp" alt="Refine Clinic Logo" class="logo-white h-16 w-auto object-contain transition-all duration-300">
+                <img src="/assets/images/refine-logo-transparent.png" alt="Refine Clinic Logo" class="logo-dark h-16 w-auto object-contain transition-all duration-300">
             </a>
 
             <!-- Desktop Navigation -->
@@ -253,7 +254,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 <aside id="mobile-menu" class="mobile-menu fixed top-0 right-0 h-full w-full max-w-[420px] bg-brand text-white z-[1001] shadow-2xl overflow-y-auto border-l border-white/10">
     <div class="p-8 flex flex-col h-full">
         <div class="flex items-center justify-between mb-8">
-            <img src="/assets/images/refine-logo.png" alt="Refine Clinic Logo" class="h-8 w-auto object-contain">
+            <img src="/assets/imagesfromsite/refine-logo-white.webp" alt="Refine Clinic Logo" class="h-8 w-auto object-contain">
             <button id="mobile-menu-close" aria-label="Close menu" class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-white/10">
                 <i class="fas fa-times text-sm"></i>
             </button>

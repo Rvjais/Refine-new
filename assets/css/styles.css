@@ -529,3 +529,9 @@ body {
 .site-header:not(.hero-mode) .nav-link-item:hover {
     color: #C9A96E;
 }
+
+/* Logo toggling for transparent/solid header states */
+.site-header .logo-white { display: none; }
+.site-header .logo-dark { display: block; }
+.site-header.hero-mode:not(.scrolled) .logo-white { display: block; }
+.site-header.hero-mode:not(.scrolled) .logo-dark { display: none; }
