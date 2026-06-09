@@ -259,7 +259,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
             </button>
         </div>
 
-        <nav class="flex-1 flex flex-col space-y-1 mobile-nav-links overflow-y-auto pr-2">
+        <nav class="flex-1 flex flex-col space-y-1 mobile-nav-links overflow-y-auto pr-2 pb-24">
             <a href="/" class="font-display italic text-2xl py-2 text-white hover:text-accent transition-colors">Home</a>
 
             <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mt-4 mb-2">About</p>

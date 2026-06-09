@@ -45,21 +45,21 @@
             </div>
 
             <!-- Right Image Composition (Asymmetrical overlapping) -->
-            <div class="lg:col-span-7 order-1 lg:order-2 relative h-[500px] lg:h-[700px] gs-reveal-img-group">
+            <div class="lg:col-span-7 order-1 lg:order-2 relative h-auto lg:h-[700px] gs-reveal-img-group flex flex-col lg:block mt-8 lg:mt-0">
                 <!-- Main Image -->
-                <div class="absolute top-0 right-0 w-[85%] h-[85%] img-reveal-wrapper shadow-2xl z-10 gs-reveal-img">
+                <div class="relative lg:absolute lg:top-0 lg:right-0 w-full lg:w-[85%] h-[350px] lg:h-[85%] img-reveal-wrapper shadow-2xl z-10 gs-reveal-img mb-6 lg:mb-0">
                     <div class="img-reveal-overlay"></div>
                     <img src="/assets/imagesfromsite/about2026.webp" alt="Refine Clinic Interior" class="img-parallax object-cover w-full h-full transition-all duration-1000" loading="lazy">
                 </div>
 
                 <!-- Secondary Image overlay -->
-                <div class="absolute bottom-0 left-0 w-[45%] h-[55%] img-reveal-wrapper shadow-2xl z-20 border-4 border-surface-warm gs-reveal-img gs-delay-1">
+                <div class="relative lg:absolute lg:bottom-0 lg:left-0 w-[80%] lg:w-[45%] h-[250px] lg:h-[55%] img-reveal-wrapper shadow-2xl z-20 border-4 border-surface-warm gs-reveal-img gs-delay-1 -mt-20 lg:mt-0 ml-auto lg:ml-0">
                     <div class="img-reveal-overlay"></div>
                     <img src="/assets/imagesfromsite/bg-01.webp" alt="Treatment Detail" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
 
                 <!-- Glassmorphism Floating Stat -->
-                <div class="absolute top-12 left-4 z-30 glass-panel rounded-3xl p-6 max-w-[200px] gs-reveal-fade gs-delay-2">
+                <div class="hidden lg:block absolute top-12 left-4 z-30 glass-panel rounded-3xl p-6 max-w-[200px] gs-reveal-fade gs-delay-2">
                     <div class="flex gap-1 text-accent text-sm mb-2">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>

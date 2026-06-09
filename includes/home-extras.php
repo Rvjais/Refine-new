@@ -123,16 +123,16 @@
     <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
         <div class="grid lg:grid-cols-12 gap-12 lg:gap-16 items-center">
             <!-- Image composition -->
-            <div class="lg:col-span-6 relative h-[500px] lg:h-[640px] gs-reveal-img-group">
-                <div class="absolute top-0 left-0 w-[60%] h-[70%] img-reveal-wrapper shadow-2xl z-10 gs-reveal-img">
+            <div class="lg:col-span-6 relative h-auto lg:h-[640px] gs-reveal-img-group flex flex-col lg:block">
+                <div class="relative lg:absolute lg:top-0 lg:left-0 w-full lg:w-[60%] h-[300px] lg:h-[70%] img-reveal-wrapper shadow-2xl z-10 gs-reveal-img mb-6 lg:mb-0">
                     <div class="img-reveal-overlay"></div>
                     <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Refine treatment" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
-                <div class="absolute bottom-0 right-0 w-[55%] h-[60%] img-reveal-wrapper shadow-2xl z-20 border-4 border-white gs-reveal-img gs-delay-1">
+                <div class="relative lg:absolute lg:bottom-0 lg:right-0 w-[80%] lg:w-[55%] h-[200px] lg:h-[60%] img-reveal-wrapper shadow-2xl z-20 border-4 border-white gs-reveal-img gs-delay-1 -mt-16 lg:mt-0 ml-auto lg:ml-0">
                     <div class="img-reveal-overlay"></div>
                     <img src="/assets/imagesfromsite/about-8.webp" alt="Refine interior" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
-                <div class="absolute top-8 right-4 z-30 glass-panel rounded-2xl p-4 max-w-[180px] gs-reveal-fade gs-delay-2">
+                <div class="hidden lg:block absolute top-8 right-4 z-30 glass-panel rounded-2xl p-4 max-w-[180px] gs-reveal-fade gs-delay-2">
                     <p class="font-display text-3xl text-brand-deeper leading-none">15+</p>
                     <p class="text-xs text-brand-muted font-light leading-snug mt-2">Years pioneering aesthetic medicine in East Africa.</p>
                 </div>
@@ -337,16 +337,16 @@
                 </div>
             </div>
 
-            <div class="lg:col-span-7 order-1 lg:order-2 relative gs-reveal-img-group h-[500px] lg:h-[600px]">
-                <div class="absolute top-0 right-0 w-[80%] h-[80%] img-reveal-wrapper shadow-2xl rounded-3xl overflow-hidden z-10 gs-reveal-img">
+            <div class="lg:col-span-7 order-1 lg:order-2 relative gs-reveal-img-group h-auto lg:h-[600px] flex flex-col lg:block mt-8 lg:mt-0">
+                <div class="relative lg:absolute lg:top-0 lg:right-0 w-full lg:w-[80%] h-[300px] lg:h-[80%] img-reveal-wrapper shadow-2xl rounded-3xl overflow-hidden z-10 gs-reveal-img mb-6 lg:mb-0">
                     <div class="img-reveal-overlay"></div>
                     <img src="/assets/imagesfromsite/IV%20THERAPY.webp" alt="IV Lounge" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
-                <div class="absolute bottom-0 left-0 w-[45%] h-[55%] img-reveal-wrapper shadow-2xl rounded-3xl overflow-hidden z-20 border-4 border-white gs-reveal-img gs-delay-1">
+                <div class="relative lg:absolute lg:bottom-0 lg:left-0 w-[80%] lg:w-[45%] h-[200px] lg:h-[55%] img-reveal-wrapper shadow-2xl rounded-3xl overflow-hidden z-20 border-4 border-white gs-reveal-img gs-delay-1 -mt-16 lg:mt-0 ml-auto lg:ml-0">
                     <div class="img-reveal-overlay"></div>
                     <img src="/assets/imagesfromsite/Vitamin%20C-09_.png" alt="IV detail" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
-                <div class="absolute top-8 left-0 z-30 glass-panel rounded-2xl p-4 max-w-[200px] gs-reveal-fade gs-delay-2">
+                <div class="hidden lg:block absolute top-8 left-0 z-30 glass-panel rounded-2xl p-4 max-w-[200px] gs-reveal-fade gs-delay-2">
                     <div class="flex items-center gap-2 mb-2">
                         <div class="w-8 h-8 rounded-full bg-accent/20 flex items-center justify-center"><i class="fas fa-bolt text-accent text-xs"></i></div>
                         <p class="font-heading font-semibold text-brand-deeper text-sm">100% Absorption</p>
