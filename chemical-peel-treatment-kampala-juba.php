@@ -9,107 +9,379 @@ $pageDescription = "Reveal fresher, brighter, more even-toned skin with our rang
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- Treatment Introduction -->
-    <section class="py-16 lg:py-24 bg-white border-b border-brand/5">
-        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
-            <div class="grid lg:grid-cols-2 gap-16 items-center">
-
+    <!-- What is Liquid Rhinoplasty? -->
+    <section class="py-20 lg:py-32 bg-[#faf9f6] relative overflow-hidden">
+        <!-- Abstract gradient orbs -->
+        <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
+        <div class="absolute bottom-0 left-0 w-[400px] h-[400px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
+        
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
+            <div class="grid xl:grid-cols-2 gap-16 xl:gap-24 items-center">
                 <div class="gs-reveal-text">
-                    <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Resurface & Renew</span>
-                    <h2 class="font-display text-4xl text-brand-deeper mb-6">A Peel for <i class="text-accent font-light">Every Skin.</i></h2>
-                    <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-8">
-                        Chemical peels use carefully formulated acids to exfoliate the outermost layers of skin, triggering cellular renewal and revealing the healthier, more luminous skin beneath. From gentle lunchtime refreshers to deeper corrective peels, we match the depth and formula to your unique skin goals.
+                    <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
+                        <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
+                        The Non-Surgical Nose Job
+                    </div>
+                    <h2 class="font-display text-5xl lg:text-6xl text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Chemical Peel in Kampala?</i></h2>
+                    <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
+                        Dive into the world of rejuvenated skin with a Chemical Peel! A game-changer in skincare, Chemical Peels employs a specially formulated solution to gently whisk away the topmost layer of dead skin. The magic happens when the fresher, more radiant complexion beneath is unveiled. Not only does the Chemical Peeling Treatment offer a fresh slate for your skin, but it also addresses a myriad of skin concerns. This treatment is causing a stir:
                     </p>
-
-                    <div class="space-y-4">
-                        <div class="glass-panel p-5 rounded-2xl border border-brand/5 shadow-sm flex gap-4 items-start">
-                            <i class="fas fa-flask text-accent text-xl mt-1"></i>
-                            <div>
-                                <h4 class="font-heading font-semibold text-brand-deeper text-base mb-1">Light Peels (Lunchtime)</h4>
-                                <p class="text-xs text-brand-muted font-light">Glycolic, lactic, and mandelic acids. No downtime. Perfect for radiance and texture refinement.</p>
+                    
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
+                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
+                        <img src="/assets/images/services/skincare_general/chemical.webp" alt="Chemical Peel Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        
+                        <!-- Floating Glass Badge -->
+                        <div class="absolute bottom-8 left-8 right-8 z-20 flex flex-col sm:flex-row gap-4 pointer-events-none">
+                            <div class="backdrop-blur-md bg-white/20 border border-white/30 p-4 rounded-2xl flex items-center gap-4 flex-1 shadow-lg transform translate-y-4 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-700 delay-100">
+                                <div class="w-10 h-10 rounded-full bg-white flex items-center justify-center text-accent text-lg shadow-sm">
+                                    <i class="fas fa-clock"></i>
+                                </div>
+                                <div>
+                                    <p class="text-white font-heading font-semibold text-sm drop-shadow-md">15 Min</p>
+                                    <p class="text-white/90 text-xs font-light drop-shadow-md">Procedure</p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="glass-panel p-5 rounded-2xl border border-brand/5 shadow-sm flex gap-4 items-start">
-                            <i class="fas fa-flask text-accent text-xl mt-1"></i>
-                            <div>
-                                <h4 class="font-heading font-semibold text-brand-deeper text-base mb-1">Medium Peels</h4>
-                                <p class="text-xs text-brand-muted font-light">TCA and Jessner peels that treat pigmentation, acne, and moderate sun damage with 3–5 days of peeling.</p>
-                            </div>
-                        </div>
-                        <div class="glass-panel p-5 rounded-2xl border border-brand/5 shadow-sm flex gap-4 items-start">
-                            <i class="fas fa-flask text-accent text-xl mt-1"></i>
-                            <div>
-                                <h4 class="font-heading font-semibold text-brand-deeper text-base mb-1">Deep Peels</h4>
-                                <p class="text-xs text-brand-muted font-light">Phenol-based peels for advanced wrinkling, deep scars, and severe photodamage. Long-lasting results.</p>
+                            <div class="backdrop-blur-md bg-white/20 border border-white/30 p-4 rounded-2xl flex items-center gap-4 flex-1 shadow-lg transform translate-y-4 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-700 delay-200">
+                                <div class="w-10 h-10 rounded-full bg-white flex items-center justify-center text-accent text-lg shadow-sm">
+                                    <i class="fas fa-magic"></i>
+                                </div>
+                                <div>
+                                    <p class="text-white font-heading font-semibold text-sm drop-shadow-md">No Surgery</p>
+                                    <p class="text-white/90 text-xs font-light drop-shadow-md">Zero Downtime</p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="relative rounded-[40px] overflow-hidden shadow-2xl gs-reveal-img-group aspect-square lg:aspect-auto lg:h-[600px]">
-                    <img src="/assets/imagesfromsite/services/chemical-peeling-bread.webp" alt="Chemical Peel Treatment" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
-                </div>
+                <div class="relative">
+                    <!-- Subtle timeline connector -->
+                    <div class="absolute left-8 top-10 bottom-10 w-px bg-gradient-to-b from-brand/5 via-accent/30 to-brand/5 hidden sm:block"></div>
+                    <div class="space-y-8 relative z-10">
+                        <h3 class="font-display text-4xl text-brand-deeper mb-10 pl-0 sm:pl-24">The <i class="text-accent font-light">Process</i></h3>
+                        
+                        <!-- Step 1 -->
+                        <div class="relative flex items-start gap-8 group">
+                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
+                                <span class="text-accent font-display text-2xl">1</span>
+                            </div>
+                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
+                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
+                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Consultation
+                                </h4>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Personalized skin analysis to determine the best treatment approach.</p>
+                            </div>
+                        </div>
 
+                        <!-- Step 2 -->
+                        <div class="relative flex items-start gap-8 group">
+                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
+                                <span class="text-accent font-display text-2xl">2</span>
+                            </div>
+                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
+                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
+                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Preparation
+                                </h4>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Cleaning the skin and selecting the right peel solution.</p>
+                            </div>
+                        </div>
+
+                        <!-- Step 3 -->
+                        <div class="relative flex items-start gap-8 group">
+                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
+                                <span class="text-accent font-display text-2xl">3</span>
+                            </div>
+                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
+                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
+                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Application
+                                </h4>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Applying the chemical solution.</p>
+                            </div>
+                        </div>
+
+                        <!-- Step 4 -->
+                        <div class="relative flex items-start gap-8 group">
+                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
+                                <span class="text-accent font-display text-2xl">4</span>
+                            </div>
+                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
+                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
+                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Peeling
+                                </h4>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">The solution is left on the skin for a predetermined time.</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
             </div>
         </div>
     </section>
 
-    <!-- Sub-Treatment Thumbnails (Bento Grid) -->
-    <section class="py-16 lg:py-24 bg-surface-warm">
+    <!-- Conditions Treated -->
+    <section class="py-20 lg:py-32 bg-white relative">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
-            <div class="mb-12 gs-reveal-text text-center">
-                <h3 class="font-display text-3xl text-brand-deeper">Our <i class="text-accent font-light">Peel Range</i></h3>
+            <div class="mb-20 gs-reveal-text text-center max-w-3xl mx-auto">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Target Areas</span>
+                <h3 class="font-display text-4xl lg:text-5xl text-brand-deeper mb-6">Conditions <i class="text-accent font-light">Treated</i></h3>
+                <p class="text-brand-muted font-body text-xl font-light leading-relaxed">
+                    This treatment is remarkably versatile. Explore how this non-invasive technique addresses diverse aesthetic concerns to restore balance and harmony.
+                </p>
             </div>
 
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 gs-stagger-bento">
-                <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
-                    <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="/assets/imagesfromsite/services/chemical-peeling-bread.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-[minmax(180px,auto)] gs-stagger-bento">
+                <!-- 1: Large Span -->
+                <div class="md:col-span-2 group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item overflow-hidden relative">
+                    <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
+                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl relative z-10 border border-brand/5 group-hover:border-accent/20">
+                        <i class="fas fa-wave-square"></i>
                     </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">TCA Peel</h4>
-                    <p class="text-sm text-brand-muted font-light line-clamp-2">A medium-depth peel for pigmentation, fine lines, and acne scars. Visible results in one session.</p>
-                </a>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-2xl mb-4 relative z-10">Acne Scars</h4>
+                    <p class="text-base text-brand-muted font-light leading-relaxed max-w-md relative z-10">Marks left behind after acne healing.</p>
+                </div>
+                
+                <!-- 2 -->
+                <div class="group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
+                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
+                        <i class="fas fa-balance-scale"></i>
+                    </div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Age Spots</h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">Small dark areas on your skin.</p>
+                </div>
+                
+                <!-- 3 -->
+                <div class="group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
+                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
+                        <i class="fas fa-arrow-up"></i>
+                    </div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Wrinkles</h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">Lines and creases in the skin.</p>
+                </div>
+                
+                <!-- 4 -->
+                <div class="group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
+                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
+                        <i class="fas fa-ruler-horizontal"></i>
+                    </div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Sun-damaged Skin</h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">Skin harmed by prolonged sun exposure.</p>
+                </div>
+                
+                <!-- 5 -->
+                <div class="md:col-span-2 lg:col-span-1 group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
+                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
+                        <i class="fas fa-cut"></i>
+                    </div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Hyperpigmentation</h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">Darkening of parts of the skin.</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
-                <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
-                    <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="/assets/imagesfromsite/services/chemical-peeling-bread.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+    <!-- Why Opt for Dr. Chirag & Myths -->
+    <section class="py-20 lg:py-32 bg-brand-deeper text-white relative overflow-hidden">
+        <div class="absolute inset-0 bg-[url('/assets/imagesfromsite/pattern.svg')] bg-repeat opacity-[0.03]"></div>
+        <div class="absolute top-0 right-0 w-[800px] h-[800px] bg-accent/20 rounded-full blur-[150px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
+        <div class="absolute bottom-0 left-0 w-[600px] h-[600px] bg-brand/40 rounded-full blur-[150px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
+        
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
+            <div class="grid lg:grid-cols-12 gap-16 xl:gap-24 items-center">
+                
+                <!-- Why Dr Chirag -->
+                <div class="lg:col-span-7">
+                    <div class="mb-12">
+                        <span class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 text-white font-body text-xs tracking-[0.2em] uppercase mb-8 font-semibold backdrop-blur-md border border-white/10">
+                            Quality & Excellence
+                        </span>
+                        
+                        <div class="flex flex-col sm:flex-row gap-8 items-start sm:items-center">
+                            <div class="w-32 h-32 sm:w-40 sm:h-40 rounded-full overflow-hidden flex-shrink-0 border-[3px] border-accent/40 shadow-[0_0_40px_rgba(var(--color-accent),0.3)] relative group">
+                                <div class="absolute inset-0 bg-accent/20 group-hover:opacity-0 transition-opacity duration-500 z-10"></div>
+                                <img src="/assets/imagesfromsite/dr_chirag_kotecha.png" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover filter grayscale-[0.1] group-hover:grayscale-0 transition-all duration-700 scale-100 group-hover:scale-110">
+                            </div>
+                            <div>
+                                <h3 class="font-display text-5xl lg:text-6xl leading-tight m-0 drop-shadow-lg">Why Opt for <br/><i class="text-accent font-light">Dr. Chirag?</i></h3>
+                            </div>
+                        </div>
                     </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Mandelic Peel</h4>
-                    <p class="text-sm text-brand-muted font-light line-clamp-2">A gentle, anti-bacterial peel ideal for sensitive and acne-prone skin, including darker tones.</p>
-                </a>
+                    
+                    <div class="space-y-8 pl-0 sm:pl-8 border-l border-white/10 ml-0 sm:ml-20">
+                        <div class="flex gap-6 items-start group">
+                            <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
+                                <i class="fas fa-eye"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Artistic Vision</h4>
+                                <p class="text-base text-white/70 font-light leading-relaxed">A keen, masterful aesthetic eye ensuring beautifully harmonious and perfectly proportioned results.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="flex gap-6 items-start group">
+                            <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
+                                <i class="fas fa-shield-alt"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Safety First</h4>
+                                <p class="text-base text-white/70 font-light leading-relaxed">Uncompromising standards using only premium, high-quality, FDA-approved dermal fillers.</p>
+                            </div>
+                        </div>
 
-                <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
-                    <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="/assets/imagesfromsite/chemical_09.png" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <div class="flex gap-6 items-start group">
+                            <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
+                                <i class="fas fa-user-md"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Vast Experience</h4>
+                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with over 800 successful, transformative non-surgical nose jobs performed.</p>
+                            </div>
+                        </div>
                     </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Cosmelan Depigmentation Peel</h4>
-                    <p class="text-sm text-brand-muted font-light line-clamp-2">The gold-standard treatment for melasma and stubborn hyperpigmentation across all skin types.</p>
-                </a>
+                </div>
+
+                <!-- Myths and Facts -->
+                <div class="lg:col-span-5 relative mt-12 lg:mt-0">
+                    <!-- Glow behind card -->
+                    <div class="absolute inset-0 bg-gradient-to-br from-accent/30 to-brand-light/30 blur-3xl transform scale-90"></div>
+                    
+                    <div class="glass-panel p-10 lg:p-12 rounded-[3rem] bg-[#1a2333]/60 backdrop-blur-2xl border border-white/10 shadow-2xl relative overflow-hidden h-full flex flex-col justify-center transform hover:-translate-y-2 transition-transform duration-500">
+                        <div class="absolute top-0 right-0 w-40 h-40 bg-accent/40 blur-[60px] rounded-full"></div>
+                        
+                        <div class="flex items-center gap-4 mb-10 relative z-10">
+                            <div class="w-12 h-12 rounded-full bg-accent/20 flex items-center justify-center text-accent text-xl border border-accent/20">
+                                <i class="fas fa-lightbulb"></i>
+                            </div>
+                            <h3 class="font-display text-4xl m-0"><i class="text-accent font-light">Myths</i> & Facts</h3>
+                        </div>
+                        
+                        <div class="space-y-8 relative z-10">
+                            <div class="bg-white/5 p-6 rounded-3xl border border-white/5 shadow-inner">
+                                <div class="flex items-center gap-3 mb-3 text-white/40">
+                                    <i class="fas fa-times-circle text-lg"></i>
+                                    <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
+                                </div>
+                                <p class="font-heading text-xl font-light text-white/80 italic">"Only people with certain skin types can benefit from chemical peels."</p>
+                            </div>
+                            
+                            <div class="relative py-2">
+                                <div class="absolute inset-0 flex items-center justify-center">
+                                    <div class="w-10 h-10 rounded-full bg-[#1a2333] border border-white/10 flex items-center justify-center z-10 shadow-lg">
+                                        <i class="fas fa-arrow-down text-accent"></i>
+                                    </div>
+                                </div>
+                                <div class="h-px w-full bg-gradient-to-r from-transparent via-white/20 to-transparent"></div>
+                            </div>
+                            
+                            <div class="bg-accent/10 p-6 rounded-3xl border border-accent/20 shadow-lg relative overflow-hidden">
+                                <div class="absolute top-0 right-0 w-20 h-20 bg-accent/30 blur-[30px] rounded-full pointer-events-none"></div>
+                                <div class="flex items-center gap-3 mb-3 text-accent relative z-10">
+                                    <i class="fas fa-check-circle text-lg"></i>
+                                    <span class="font-body text-xs tracking-[0.2em] uppercase font-bold text-white">The Fact</span>
+                                </div>
+                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">Chemical peels have various strengths and formulations, making them suitable for various skin types and concerns. A skincare professional can choose the appropriate type of peel to match an individual's skin needs, whether for acne, ageing, pigmentation, or texture improvement.<</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
         </div>
     </section>
 
     <!-- FAQ Block -->
-    <section class="py-16 bg-white border-t border-brand/5">
-        <div class="max-w-[800px] mx-auto px-6">
-            <h3 class="font-display text-3xl text-brand-deeper mb-8 text-center">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
-            <div class="space-y-4">
-                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group border border-brand/5">
-                    <div class="p-6 flex justify-between items-center bg-white/50 group-hover:bg-white transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-lg">Will my skin peel a lot?</h4>
-                        <i class="fas fa-plus text-brand transition-transform duration-300 transform group-[.active]:rotate-45"></i>
+    <section class="py-20 lg:py-32 bg-[#faf9f6]">
+        <div class="max-w-[900px] mx-auto px-6">
+            <div class="text-center mb-16">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Answers</span>
+                <h3 class="font-display text-5xl text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
+                <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
+                    Explore our comprehensive FAQ section for quick answers to common queries about Chemical Peel Treatment. Find the clarity you need without delay.
+                </p>
+            </div>
+
+            <div class="space-y-5">
+                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-8 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">1. How long does the Chemical Peel process take?</h4>
+                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
                     </div>
-                    <div class="faq-content h-0 overflow-hidden px-6 pb-0 group-[.active]:pb-6 transition-all duration-300">
-                        <p class="text-brand-muted font-body text-sm leading-relaxed mt-2 border-t border-brand/5 pt-4">It depends on the depth of peel. Light peels may cause only minor flaking; medium peels typically peel for 3–5 days; deep peels for up to 10 days.</p>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-8 pb-8">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">The procedure typically takes between 10 to 20 minutes.</p>
+                        </div>
                     </div>
                 </div>
-                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group border border-brand/5">
-                    <div class="p-6 flex justify-between items-center bg-white/50 group-hover:bg-white transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-lg">Are chemical peels safe for dark skin?</h4>
-                        <i class="fas fa-plus text-brand transition-transform duration-300 transform group-[.active]:rotate-45"></i>
+                
+                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-8 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">2. How often should I get a Chemical Peel?</h4>
+                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
                     </div>
-                    <div class="faq-content h-0 overflow-hidden px-6 pb-0 group-[.active]:pb-6 transition-all duration-300">
-                        <p class="text-brand-muted font-body text-sm leading-relaxed mt-2 border-t border-brand/5 pt-4">Yes, when performed by an experienced dermatologist. We choose peels and concentrations specifically suited to your Fitzpatrick type to minimize PIH risk.</p>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-8 pb-8">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Depending on the type of peel, sessions can be repeated every 4-6 weeks.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-8 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">3. Is there downtime post-treatment?</h4>
+                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-8 pb-8">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Light peels have minimal downtime, while deep peels might require up to 2 weeks.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-8 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">4. Are there any side effects?</h4>
+                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-8 pb-8">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Temporary redness or sensitivity is expected, which subsides quickly.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-8 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">5. What is the cost of Chemical Peel in Uganda?</h4>
+                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-8 pb-8">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Chemical Peel cost in Uganda varies depending upon several factors. The cost of a single session at Refine Skin & Body Clinic can cost anywhere from $50 per session.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-8 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">6. Can I wear makeup post-treatment?</h4>
+                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-8 pb-8">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">For light and medium peels, after 24 hours. For deep peels, consult with the doctor.</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -122,16 +394,17 @@ $pageDescription = "Reveal fresher, brighter, more even-toned skin with our rang
                 const isActive = item.classList.contains('active');
                 document.querySelectorAll('.faq-item').forEach(el => {
                     el.classList.remove('active');
-                    el.querySelector('.faq-content').style.height = '0px';
+                    el.querySelector('.faq-content').style.maxHeight = '0px';
                 });
                 if (!isActive) {
                     item.classList.add('active');
                     const content = item.querySelector('.faq-content');
-                    content.style.height = content.scrollHeight + 'px';
+                    content.style.maxHeight = content.scrollHeight + 'px';
                 }
             });
         });
     </script>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

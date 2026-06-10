@@ -55,7 +55,7 @@
                 <!-- Secondary Image overlay -->
                 <div class="relative lg:absolute lg:bottom-0 lg:left-0 w-[80%] lg:w-[45%] h-[250px] lg:h-[55%] img-reveal-wrapper shadow-2xl z-20 border-4 border-surface-warm gs-reveal-img gs-delay-1 -mt-20 lg:mt-0 ml-auto lg:ml-0">
                     <div class="img-reveal-overlay"></div>
-                    <img src="/assets/imagesfromsite/bg-01.webp" alt="Treatment Detail" class="img-parallax object-cover w-full h-full" loading="lazy">
+                    <img src="/assets/imagesfromsite/about2026.webp" alt="Treatment Detail" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
 
                 <!-- Glassmorphism Floating Stat -->

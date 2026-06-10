@@ -1,0 +1,54 @@
+Website scraped from: https://refineskinandbody.com
+Total pages  : 88
+Total assets : 270
+Errors       : 41
+
+──────────────────────────────────────────────────
+HOW TO VIEW THE SCRAPED SITE
+──────────────────────────────────────────────────
+
+Option 1 — Quick view (recommended):
+  1. Extract this ZIP anywhere on your computer.
+  2. Open a terminal in the extracted folder.
+  3. Run:  python -m http.server 8080
+  4. Open  http://localhost:8080/pages/index.html  in your browser.
+
+Option 2 — Direct file open:
+  Open  pages/index.html  directly in your browser.
+  (CSS and images load fine. JS-rendered content may not render properly without a server.)
+
+──────────────────────────────────────────────────
+FOLDER STRUCTURE
+──────────────────────────────────────────────────
+
+  pages/          → All .html files (flattened)
+  <other files>   → Media files preserving their original server paths
+                    (e.g., assets/, wp-content/, images/, etc.)
+
+All paths inside each HTML file have already been rewritten
+to point to the local copies — no editing needed.
+
+──────────────────────────────────────────────────
+ERRORS DURING SCRAPE
+──────────────────────────────────────────────────
+
+  • https://cdn.bloghunch.com/uploads/m4KAavcFEj315ZgM.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/m4KAavcFEj315ZgM.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/ELr5n868IWOlHqlV.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/ELr5n868IWOlHqlV.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/rw3fjJ3ylpzq25YS.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/rw3fjJ3ylpzq25YS.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/PqoxnYCNGjpdlMdm.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/PqoxnYCNGjpdlMdm.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/n1lWDaQ7Pv02Lisq.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/n1lWDaQ7Pv02Lisq.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/eFxoXdHOOPOB1Ow0.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/eFxoXdHOOPOB1Ow0.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/fmg5pzDuv6NpT496.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/fmg5pzDuv6NpT496.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/vSz0FSgVBGPZvCHB.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/vSz0FSgVBGPZvCHB.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/382kaPj2GKj3Un5R.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/382kaPj2GKj3Un5R.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/Y7E47SGpheNgAqLx.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/Y7E47SGpheNgAqLx.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/8UyRI659Zt5NGswn.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/8UyRI659Zt5NGswn.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/cqDa9gJKAbHjfllA.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/cqDa9gJKAbHjfllA.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/OmFGbK0vmwjodwyf.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/OmFGbK0vmwjodwyf.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/jhSM9FkYIXDsqNya.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/jhSM9FkYIXDsqNya.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/PA8NTe1GVYE84jdT.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/PA8NTe1GVYE84jdT.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/oPh8FSu9vQW8qTjy.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/oPh8FSu9vQW8qTjy.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/MK51ZGjHuFy33lCL.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/MK51ZGjHuFy33lCL.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/cp2p9JkoUHUe5anJ.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/cp2p9JkoUHUe5anJ.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/NKuRKf9WrHuEvqIV.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/NKuRKf9WrHuEvqIV.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))
+  • https://cdn.bloghunch.com/uploads/jP0Q6ZAEKhjLMBap.webp: HTTPSConnectionPool(host='cdn.bloghunch.com', port=443): Max retries exceeded with url: /uploads/jP0Q6ZAEKhjLMBap.webp (Caused by NameResolutionError("HTTPSConnection(host='cdn.bloghunch.com', port=443): Failed to resolve 'cdn.bloghunch.com' ([Errno -3] Temporary failure in name resolution)"))

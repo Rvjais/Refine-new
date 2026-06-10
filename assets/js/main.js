@@ -142,6 +142,9 @@ document.addEventListener('DOMContentLoaded', () => {
         centeredSlides: true,
         slidesPerView: 'auto',
         loop: true,
+        loopedSlides: 4,
+        observer: true,
+        observeParents: true,
         speed: 800,
         coverflowEffect: {
             rotate: 0,
@@ -157,6 +160,13 @@ document.addEventListener('DOMContentLoaded', () => {
         pagination: {
             el: '.testimonials-swiper .swiper-pagination',
             clickable: true,
+        },
+        on: {
+            init: function () {
+                setTimeout(() => {
+                    this.update();
+                }, 100);
+            }
         }
     });
 

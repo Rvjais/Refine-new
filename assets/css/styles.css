@@ -473,7 +473,30 @@ body {
         grid-column: span 1;
     }
     .hero-display-text {
-        font-size: clamp(2rem, 10vw, 3.5rem);
+        font-size: clamp(2.5rem, 10vw, 3.5rem);
+    }
+    .hero-slider-container {
+        min-height: 60vh !important;
+        height: auto !important;
+        padding-bottom: 2rem;
+    }
+    
+    /* Ensure images are 100% visible and not cropped on mobile */
+    .img-parallax, .gs-reveal-img {
+        object-fit: contain !important;
+        object-position: center top !important;
+        background-color: #1a0f3c; /* Fill letterboxing with brand color */
+    }
+
+    /* Global Padding Overrides for Mobile */
+    .py-16 { padding-top: 3rem !important; padding-bottom: 3rem !important; }
+    .py-20 { padding-top: 4rem !important; padding-bottom: 4rem !important; }
+    .py-24 { padding-top: 4rem !important; padding-bottom: 4rem !important; }
+    .py-32 { padding-top: 5rem !important; padding-bottom: 5rem !important; }
+    
+    /* Glass Panel optimizations */
+    .glass-panel {
+        padding: 1.5rem !important; /* from p-8/p-12 */
     }
 }
 

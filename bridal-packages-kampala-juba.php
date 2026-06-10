@@ -7,147 +7,404 @@ $pageDescription = "Walk down the aisle with absolute confidence. Our curated br
 <?php include 'includes/header.php'; ?>
 
 <main class="pt-20">
-    <!-- Reusable Hero -->
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- Timeline Graphic Section -->
-    <section class="py-16 lg:py-24 bg-white border-b border-brand/5">
-        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
-            <div class="text-center mb-16 gs-reveal-text">
-                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">The Preparation</span>
-                <h2 class="font-display text-4xl text-brand-deeper">Bridal <i class="text-accent font-light">Timeline.</i></h2>
-                <p class="text-sm font-light text-brand-muted mt-4 max-w-xl mx-auto">Great skin isn't created overnight. For the most dramatic and stable results, we recommend beginning your bridal aesthetic journey 6 to 12 months prior to the wedding.</p>
-            </div>
-            
-            <!-- Horizontal Timeline -->
-            <div class="relative max-w-5xl mx-auto">
-                <div class="absolute top-1/2 left-0 w-full h-px bg-brand/10 -translate-y-1/2 hidden md:block"></div>
-                
-                <div class="grid md:grid-cols-4 gap-8 relative z-10 gs-stagger-bento">
-                    
-                    <!-- 6-12 Months -->
-                    <div class="glass-panel p-6 rounded-2xl bg-surface-warm border border-brand/5 text-center bento-item">
-                        <div class="w-12 h-12 rounded-full bg-white border-2 border-brand/20 flex items-center justify-center text-brand font-display mx-auto mb-4 relative">
-                            <span class="absolute -top-2 -right-2 w-4 h-4 bg-accent rounded-full"></span>
-                        </div>
-                        <h4 class="font-heading font-semibold text-brand-deeper text-sm mb-2">6-12 Months</h4>
-                        <p class="text-xs text-brand-muted font-light">Start laser hair removal, treat severe acne/scarring, and begin medical-grade skincare.</p>
+    <!-- What is Liquid Rhinoplasty? -->
+    <section class="py-20 lg:py-32 bg-[#faf9f6] relative overflow-hidden">
+        <!-- Abstract gradient orbs -->
+        <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
+        <div class="absolute bottom-0 left-0 w-[400px] h-[400px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
+        
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
+            <div class="grid xl:grid-cols-2 gap-16 xl:gap-24 items-center">
+                <div class="gs-reveal-text">
+                    <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
+                        <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
+                        The Non-Surgical Nose Job
                     </div>
-
-                    <!-- 3-6 Months -->
-                    <div class="glass-panel p-6 rounded-2xl bg-surface-warm border border-brand/5 text-center bento-item">
-                        <div class="w-12 h-12 rounded-full bg-white border-2 border-brand/20 flex items-center justify-center text-brand font-display mx-auto mb-4 relative">
-                            <span class="absolute -top-2 -right-2 w-4 h-4 bg-accent rounded-full"></span>
-                        </div>
-                        <h4 class="font-heading font-semibold text-brand-deeper text-sm mb-2">3-6 Months</h4>
-                        <p class="text-xs text-brand-muted font-light">First rounds of injectables (Botox/Fillers) to allow for adjustments. Begin series of chemical peels.</p>
-                    </div>
-
-                    <!-- 1-2 Months -->
-                    <div class="glass-panel p-6 rounded-2xl bg-surface-warm border border-brand/5 text-center bento-item">
-                        <div class="w-12 h-12 rounded-full bg-white border-2 border-brand/20 flex items-center justify-center text-brand font-display mx-auto mb-4 relative">
-                            <span class="absolute -top-2 -right-2 w-4 h-4 bg-accent rounded-full"></span>
-                        </div>
-                        <h4 class="font-heading font-semibold text-brand-deeper text-sm mb-2">1-2 Months</h4>
-                        <p class="text-xs text-brand-muted font-light">Final injectable touch-ups. Focus on deep hydration and superficial resurfacing.</p>
-                    </div>
-
-                    <!-- 1-2 Weeks -->
-                    <div class="glass-panel p-6 rounded-2xl bg-surface-warm border border-brand/5 text-center bento-item">
-                        <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display mx-auto mb-4 relative shadow-lg shadow-brand/30">
-                            <i class="fas fa-heart text-accent"></i>
-                        </div>
-                        <h4 class="font-heading font-semibold text-brand-deeper text-sm mb-2">1-2 Weeks</h4>
-                        <p class="text-xs text-brand-muted font-light">HydraFacial for that final glow, dermaplaning, and IV Vitamin drips for energy and brightness.</p>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Packages Grid -->
-    <section class="py-16 lg:py-24 bg-surface-warm">
-        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
-            <div class="grid lg:grid-cols-12 gap-16 items-start">
-                
-                <div class="lg:col-span-4 gs-reveal-text">
-                    <h3 class="font-display text-4xl text-brand-deeper mb-6">Curated <i class="text-accent font-light">Packages.</i></h3>
-                    <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-8">
-                        We have designed comprehensive packages that combine our most effective treatments to ensure you and your bridal party look stunning from every angle.
+                    <h2 class="font-display text-5xl lg:text-6xl text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Bridal Packages?</i></h2>
+                    <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
+                        Experience top-tier Bridal Packages at Refine Skin and Body Clinic. Our advanced approach ensures optimal results tailored to your unique needs, helping you achieve your aesthetic goals safely and effectively under the guidance of our expert team.
                     </p>
-                    <div class="rounded-3xl overflow-hidden aspect-[3/4] shadow-lg mb-8">
-                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Bridal Glow" class="w-full h-full object-cover filter grayscale-[0.2]">
-                    </div>
-                </div>
-
-                <div class="lg:col-span-8 space-y-6 gs-stagger-bento">
                     
-                    <!-- Package 1 -->
-                    <div class="glass-panel p-8 rounded-[32px] bg-white border border-brand/5 shadow-sm bento-item flex flex-col md:flex-row gap-8 items-center justify-between group">
-                        <div>
-                            <span class="inline-block px-3 py-1 bg-brand/5 rounded-full text-[10px] uppercase tracking-widest text-brand font-semibold mb-3">The Essentials</span>
-                            <h4 class="font-heading font-semibold text-brand-deeper text-2xl mb-2">The Bridal Glow</h4>
-                            <p class="text-sm text-brand-muted font-light mb-4 max-w-md">Perfect for the bride 2 months out. Focuses on deep exfoliation, hydration, and a flawless canvas for makeup.</p>
-                            <ul class="space-y-1 text-xs font-semibold text-brand-deeper">
-                                <li><i class="fas fa-check text-accent mr-2"></i> 2x HydraFacial MD</li>
-                                <li><i class="fas fa-check text-accent mr-2"></i> 1x Dermaplaning Session</li>
-                                <li><i class="fas fa-check text-accent mr-2"></i> 1x Skin Brightening IV Drip</li>
-                            </ul>
-                        </div>
-                        <div class="text-center md:text-right shrink-0">
-                            <a href="#" class="btn-magnetic btn-outline text-xs inline-flex items-center">
-                                <span>Download Details (PDF)</span> <i class="far fa-file-pdf ml-2"></i>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Package 2 -->
-                    <div class="glass-panel-dark p-8 rounded-[32px] bg-brand-deeper border border-brand-deeper shadow-xl bento-item flex flex-col md:flex-row gap-8 items-center justify-between group relative overflow-hidden">
-                        <div class="absolute -top-10 -right-10 text-accent/10 text-9xl transform rotate-12"><i class="fas fa-ring"></i></div>
-                        <div class="relative z-10">
-                            <span class="inline-block px-3 py-1 bg-accent rounded-full text-[10px] uppercase tracking-widest text-brand-deeper font-bold mb-3">Comprehensive</span>
-                            <h4 class="font-heading font-semibold text-white text-2xl mb-2">The Ultimate Bride</h4>
-                            <p class="text-sm text-white/70 font-light mb-4 max-w-md">Our signature 6-month transformational journey. Complete skin remodeling, structural refinement, and total wellness.</p>
-                            <ul class="space-y-1 text-xs font-semibold text-white">
-                                <li><i class="fas fa-check text-accent mr-2"></i> Custom Injectables Plan (Botox/Fillers)</li>
-                                <li><i class="fas fa-check text-accent mr-2"></i> 3x Chemical Peels or Laser Resurfacing</li>
-                                <li><i class="fas fa-check text-accent mr-2"></i> 3x HydraFacial MD</li>
-                                <li><i class="fas fa-check text-accent mr-2"></i> ZO Skin Health Bridal Regimen Kit</li>
-                            </ul>
-                        </div>
-                        <div class="text-center md:text-right shrink-0 relative z-10">
-                            <a href="#" class="btn-magnetic bg-white text-brand-deeper border-none text-xs inline-flex items-center">
-                                <span>Download Details (PDF)</span> <i class="far fa-file-pdf ml-2"></i>
-                            </a>
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
+                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
+                        <img src="/assets/imagesfromsite/doc.webp" alt="Bridal Packages at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        
+                        <!-- Floating Glass Badge -->
+                        <div class="absolute bottom-8 left-8 right-8 z-20 flex flex-col sm:flex-row gap-4 pointer-events-none">
+                            <div class="backdrop-blur-md bg-white/20 border border-white/30 p-4 rounded-2xl flex items-center gap-4 flex-1 shadow-lg transform translate-y-4 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-700 delay-100">
+                                <div class="w-10 h-10 rounded-full bg-white flex items-center justify-center text-accent text-lg shadow-sm">
+                                    <i class="fas fa-clock"></i>
+                                </div>
+                                <div>
+                                    <p class="text-white font-heading font-semibold text-sm drop-shadow-md">15 Min</p>
+                                    <p class="text-white/90 text-xs font-light drop-shadow-md">Procedure</p>
+                                </div>
+                            </div>
+                            <div class="backdrop-blur-md bg-white/20 border border-white/30 p-4 rounded-2xl flex items-center gap-4 flex-1 shadow-lg transform translate-y-4 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-700 delay-200">
+                                <div class="w-10 h-10 rounded-full bg-white flex items-center justify-center text-accent text-lg shadow-sm">
+                                    <i class="fas fa-magic"></i>
+                                </div>
+                                <div>
+                                    <p class="text-white font-heading font-semibold text-sm drop-shadow-md">No Surgery</p>
+                                    <p class="text-white/90 text-xs font-light drop-shadow-md">Zero Downtime</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
-
-                    <!-- Package 3 -->
-                    <div class="glass-panel p-8 rounded-[32px] bg-white border border-brand/5 shadow-sm bento-item flex flex-col md:flex-row gap-8 items-center justify-between group">
-                        <div>
-                            <span class="inline-block px-3 py-1 bg-brand/5 rounded-full text-[10px] uppercase tracking-widest text-brand font-semibold mb-3">Group Package</span>
-                            <h4 class="font-heading font-semibold text-brand-deeper text-2xl mb-2">The Bridal Party</h4>
-                            <p class="text-sm text-brand-muted font-light mb-4 max-w-md">Treat the mother-of-the-bride and your bridesmaids to a day of luxury 1-2 weeks before the wedding.</p>
-                            <ul class="space-y-1 text-xs font-semibold text-brand-deeper">
-                                <li><i class="fas fa-check text-accent mr-2"></i> Group HydraFacial Sessions (up to 5 people)</li>
-                                <li><i class="fas fa-check text-accent mr-2"></i> Group IV Wellness Drips</li>
-                                <li><i class="fas fa-check text-accent mr-2"></i> Champagne & Refreshments in our VIP Suite</li>
-                            </ul>
-                        </div>
-                        <div class="text-center md:text-right shrink-0">
-                            <a href="#" class="btn-magnetic btn-outline text-xs inline-flex items-center">
-                                <span>Download Details (PDF)</span> <i class="far fa-file-pdf ml-2"></i>
-                            </a>
-                        </div>
-                    </div>
-
                 </div>
 
+                <div class="relative">
+                    <!-- Subtle timeline connector -->
+                    <div class="absolute left-8 top-10 bottom-10 w-px bg-gradient-to-b from-brand/5 via-accent/30 to-brand/5 hidden sm:block"></div>
+                    <div class="space-y-8 relative z-10">
+                        <h3 class="font-display text-4xl text-brand-deeper mb-10 pl-0 sm:pl-24">The <i class="text-accent font-light">Process</i></h3>
+                        
+                        <!-- Step 1 -->
+                        <div class="relative flex items-start gap-8 group">
+                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
+                                <span class="text-accent font-display text-2xl">1</span>
+                            </div>
+                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
+                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
+                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Consultation
+                                </h4>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Discuss your aesthetic goals with Dr. Chirag and evaluate if this non-invasive treatment perfectly aligns with your desired profile.</p>
+                            </div>
+                        </div>
+
+                        <!-- Step 2 -->
+                        <div class="relative flex items-start gap-8 group">
+                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
+                                <span class="text-accent font-display text-2xl">2</span>
+                            </div>
+                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
+                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
+                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Preparation
+                                </h4>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">We prioritize your comfort. A premium topical numbing cream is applied to ensure a completely painless and relaxing experience.</p>
+                            </div>
+                        </div>
+
+                        <!-- Step 3 -->
+                        <div class="relative flex items-start gap-8 group">
+                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
+                                <span class="text-accent font-display text-2xl">3</span>
+                            </div>
+                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
+                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
+                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Procedure
+                                </h4>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Strategic, micro-precise injections of dermal filler are administered by Dr. Chirag to reshape, elevate, and contour your nose.</p>
+                            </div>
+                        </div>
+
+                        <!-- Step 4 -->
+                        <div class="relative flex items-start gap-8 group">
+                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
+                                <span class="text-accent font-display text-2xl">4</span>
+                            </div>
+                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
+                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
+                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Post-Treatment
+                                </h4>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Receive personalized guidance to ensure lasting results. Walk out immediately with your stunning, refined new profile.</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
             </div>
         </div>
     </section>
 
+    <!-- Conditions Treated -->
+    <section class="py-20 lg:py-32 bg-white relative">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
+            <div class="mb-20 gs-reveal-text text-center max-w-3xl mx-auto">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Target Areas</span>
+                <h3 class="font-display text-4xl lg:text-5xl text-brand-deeper mb-6">Conditions <i class="text-accent font-light">Treated</i></h3>
+                <p class="text-brand-muted font-body text-xl font-light leading-relaxed">
+                    This treatment is remarkably versatile. Explore how this non-invasive technique addresses diverse aesthetic concerns to restore balance and harmony.
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-[minmax(180px,auto)] gs-stagger-bento">
+                <!-- 1: Large Span -->
+                <div class="md:col-span-2 group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item overflow-hidden relative">
+                    <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
+                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl relative z-10 border border-brand/5 group-hover:border-accent/20">
+                        <i class="fas fa-wave-square"></i>
+                    </div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-2xl mb-4 relative z-10">Target Area 1</h4>
+                    <p class="text-base text-brand-muted font-light leading-relaxed max-w-md relative z-10">Prominent or irregular bumps on the bridge of the nose can be masterfully smoothed and softened, creating a perfectly streamlined, straight appearance from any angle.</p>
+                </div>
+                
+                <!-- 2 -->
+                <div class="group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
+                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
+                        <i class="fas fa-balance-scale"></i>
+                    </div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Target Area 2</h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">For noses slightly off-centre or asymmetric, filler creates a flawlessly balanced and harmonious facial symmetry.</p>
+                </div>
+                
+                <!-- 3 -->
+                <div class="group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
+                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
+                        <i class="fas fa-arrow-up"></i>
+                    </div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Target Area 3</h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">A drooping or heavy nasal tip can be subtly lifted and elegantly refined, rejuvenating the overall profile.</p>
+                </div>
+                
+                <!-- 4 -->
+                <div class="group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
+                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
+                        <i class="fas fa-ruler-horizontal"></i>
+                    </div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Target Area 4</h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">Build up and define a flat nasal bridge for individuals seeking a more pronounced, sculpted architectural structure.</p>
+                </div>
+                
+                <!-- 5 -->
+                <div class="md:col-span-2 lg:col-span-1 group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
+                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
+                        <i class="fas fa-cut"></i>
+                    </div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Target Area 5</h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">A minimally invasive tool to make delicate minor adjustments or brilliant corrections following a previous surgical rhinoplasty.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Opt for Dr. Chirag & Myths -->
+    <section class="py-20 lg:py-32 bg-brand-deeper text-white relative overflow-hidden">
+        <div class="absolute inset-0 bg-[url('/assets/imagesfromsite/pattern.svg')] bg-repeat opacity-[0.03]"></div>
+        <div class="absolute top-0 right-0 w-[800px] h-[800px] bg-accent/20 rounded-full blur-[150px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
+        <div class="absolute bottom-0 left-0 w-[600px] h-[600px] bg-brand/40 rounded-full blur-[150px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
+        
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
+            <div class="grid lg:grid-cols-12 gap-16 xl:gap-24 items-center">
+                
+                <!-- Why Dr Chirag -->
+                <div class="lg:col-span-7">
+                    <div class="mb-12">
+                        <span class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 text-white font-body text-xs tracking-[0.2em] uppercase mb-8 font-semibold backdrop-blur-md border border-white/10">
+                            Quality & Excellence
+                        </span>
+                        
+                        <div class="flex flex-col sm:flex-row gap-8 items-start sm:items-center">
+                            <div class="w-32 h-32 sm:w-40 sm:h-40 rounded-full overflow-hidden flex-shrink-0 border-[3px] border-accent/40 shadow-[0_0_40px_rgba(var(--color-accent),0.3)] relative group">
+                                <div class="absolute inset-0 bg-accent/20 group-hover:opacity-0 transition-opacity duration-500 z-10"></div>
+                                <img src="/assets/imagesfromsite/dr_chirag_kotecha.png" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover filter grayscale-[0.1] group-hover:grayscale-0 transition-all duration-700 scale-100 group-hover:scale-110">
+                            </div>
+                            <div>
+                                <h3 class="font-display text-5xl lg:text-6xl leading-tight m-0 drop-shadow-lg">Why Opt for <br/><i class="text-accent font-light">Dr. Chirag?</i></h3>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="space-y-8 pl-0 sm:pl-8 border-l border-white/10 ml-0 sm:ml-20">
+                        <div class="flex gap-6 items-start group">
+                            <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
+                                <i class="fas fa-eye"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Artistic Vision</h4>
+                                <p class="text-base text-white/70 font-light leading-relaxed">A keen, masterful aesthetic eye ensuring beautifully harmonious and perfectly proportioned results.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="flex gap-6 items-start group">
+                            <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
+                                <i class="fas fa-shield-alt"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Safety First</h4>
+                                <p class="text-base text-white/70 font-light leading-relaxed">Uncompromising standards using only premium, high-quality, FDA-approved dermal fillers.</p>
+                            </div>
+                        </div>
+
+                        <div class="flex gap-6 items-start group">
+                            <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
+                                <i class="fas fa-user-md"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Vast Experience</h4>
+                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with over 800 successful, transformative non-surgical nose jobs performed.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Myths and Facts -->
+                <div class="lg:col-span-5 relative mt-12 lg:mt-0">
+                    <!-- Glow behind card -->
+                    <div class="absolute inset-0 bg-gradient-to-br from-accent/30 to-brand-light/30 blur-3xl transform scale-90"></div>
+                    
+                    <div class="glass-panel p-10 lg:p-12 rounded-[3rem] bg-[#1a2333]/60 backdrop-blur-2xl border border-white/10 shadow-2xl relative overflow-hidden h-full flex flex-col justify-center transform hover:-translate-y-2 transition-transform duration-500">
+                        <div class="absolute top-0 right-0 w-40 h-40 bg-accent/40 blur-[60px] rounded-full"></div>
+                        
+                        <div class="flex items-center gap-4 mb-10 relative z-10">
+                            <div class="w-12 h-12 rounded-full bg-accent/20 flex items-center justify-center text-accent text-xl border border-accent/20">
+                                <i class="fas fa-lightbulb"></i>
+                            </div>
+                            <h3 class="font-display text-4xl m-0"><i class="text-accent font-light">Myths</i> & Facts</h3>
+                        </div>
+                        
+                        <div class="space-y-8 relative z-10">
+                            <div class="bg-white/5 p-6 rounded-3xl border border-white/5 shadow-inner">
+                                <div class="flex items-center gap-3 mb-3 text-white/40">
+                                    <i class="fas fa-times-circle text-lg"></i>
+                                    <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
+                                </div>
+                                <p class="font-heading text-xl font-light text-white/80 italic">"Results from Bridal Packages are instantaneous and permanent without any maintenance."</p>
+                            </div>
+                            
+                            <div class="relative py-2">
+                                <div class="absolute inset-0 flex items-center justify-center">
+                                    <div class="w-10 h-10 rounded-full bg-[#1a2333] border border-white/10 flex items-center justify-center z-10 shadow-lg">
+                                        <i class="fas fa-arrow-down text-accent"></i>
+                                    </div>
+                                </div>
+                                <div class="h-px w-full bg-gradient-to-r from-transparent via-white/20 to-transparent"></div>
+                            </div>
+                            
+                            <div class="bg-accent/10 p-6 rounded-3xl border border-accent/20 shadow-lg relative overflow-hidden">
+                                <div class="absolute top-0 right-0 w-20 h-20 bg-accent/30 blur-[30px] rounded-full pointer-events-none"></div>
+                                <div class="flex items-center gap-3 mb-3 text-accent relative z-10">
+                                    <i class="fas fa-check-circle text-lg"></i>
+                                    <span class="font-body text-xs tracking-[0.2em] uppercase font-bold text-white">The Fact</span>
+                                </div>
+                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">While highly effective, results vary per individual and may require occasional maintenance sessions to preserve optimal outcomes.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Block -->
+    <section class="py-20 lg:py-32 bg-[#faf9f6]">
+        <div class="max-w-[900px] mx-auto px-6">
+            <div class="text-center mb-16">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Answers</span>
+                <h3 class="font-display text-5xl text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
+                <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
+                    Explore our comprehensive FAQ section for quick answers to common queries about Bridal Packages. Find the clarity you need without delay.
+                </p>
+            </div>
+
+            <div class="space-y-5">
+                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-8 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">1. Is Bridal Packages painful?</h4>
+                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-8 pb-8">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Most patients experience minimal discomfort. We prioritize your comfort throughout the Bridal Packages procedure.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-8 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">2. When can I resume normal activities after Bridal Packages?</h4>
+                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-8 pb-8">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Recovery time varies, but many patients can resume normal activities shortly after the procedure. Your specialist will provide specific aftercare instructions.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-8 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">3. Can I combine Bridal Packages with other treatments?</h4>
+                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-8 pb-8">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Absolutely. Discuss your holistic aesthetic goals during your consultation to curate a comprehensive, personalized treatment plan.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-8 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">4. When will I see results from Bridal Packages?</h4>
+                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-8 pb-8">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Results can vary depending on the individual and the specifics of the treatment. Many notice improvements quickly, while optimal results may develop over time.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-8 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">5. Are there any risks involved with Bridal Packages?</h4>
+                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-8 pb-8">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Like all procedures, minor risks exist, but they are exceedingly minimal when conducted by highly experienced specialists. We will discuss all potential risks during your consultation.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-8 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">6. What is the cost of Bridal Packages in Uganda?</h4>
+                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-8 pb-8">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">The cost for Bridal Packages varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        document.querySelectorAll('.faq-item').forEach(item => {
+            item.addEventListener('click', () => {
+                const isActive = item.classList.contains('active');
+                document.querySelectorAll('.faq-item').forEach(el => {
+                    el.classList.remove('active');
+                    el.querySelector('.faq-content').style.maxHeight = '0px';
+                });
+                if (!isActive) {
+                    item.classList.add('active');
+                    const content = item.querySelector('.faq-content');
+                    content.style.maxHeight = content.scrollHeight + 'px';
+                }
+            });
+        });
+    </script>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -22,14 +22,14 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         The Non-Surgical Nose Job
                     </div>
-                    <h2 class="font-display text-5xl lg:text-6xl text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Liquid Rhinoplasty?</i></h2>
+                    <h2 class="font-display text-5xl lg:text-6xl text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Liquid Rhinoplasty in Kampala?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Liquid Rhinoplasty, often termed a non-surgical nose job, employs fillers to tweak the nose's shape and profile without the downtime and invasiveness of surgery. Dr Chirag Kotecha masterfully uses this technique, delivering astounding results highlighting a patient's natural beauty.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/imagesfromsite/Liquid-Rhinoplasty_09.png" alt="A close-up of a person receiving a top liquid rhinoplasty in kampala on the side of their nose at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        <img src="/assets/images/services/injectables/Liquid-Rhinoplasty_09.png" alt="Non Surgical Liquid Rhinoplasty at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
                         
                         <!-- Floating Glass Badge -->
                         <div class="absolute bottom-8 left-8 right-8 z-20 flex flex-col sm:flex-row gap-4 pointer-events-none">
@@ -126,7 +126,7 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Target Areas</span>
                 <h3 class="font-display text-4xl lg:text-5xl text-brand-deeper mb-6">Conditions <i class="text-accent font-light">Treated</i></h3>
                 <p class="text-brand-muted font-body text-xl font-light leading-relaxed">
-                    Liquid Rhinoplasty is remarkably versatile. Explore how this non-invasive technique addresses diverse aesthetic concerns to restore balance and harmony.
+                    This treatment is remarkably versatile. Explore how this non-invasive technique addresses diverse aesthetic concerns to restore balance and harmony.
                 </p>
             </div>
 
@@ -137,8 +137,8 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
                     <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl relative z-10 border border-brand/5 group-hover:border-accent/20">
                         <i class="fas fa-wave-square"></i>
                     </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-2xl mb-4 relative z-10">Dorsal Humps & Bumps</h4>
-                    <p class="text-base text-brand-muted font-light leading-relaxed max-w-md relative z-10">Prominent or irregular bumps on the bridge of the nose can be masterfully smoothed and softened, creating a perfectly streamlined, straight appearance from any angle.</p>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-2xl mb-4 relative z-10">Dorsal Humps and Bumps</h4>
+                    <p class="text-base text-brand-muted font-light leading-relaxed max-w-md relative z-10">Prominent or irregular bumps on the bridge of the nose can be smoothed and softened, creating a more streamlined appearance.</p>
                 </div>
                 
                 <!-- 2 -->
@@ -146,8 +146,8 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
                     <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
                         <i class="fas fa-balance-scale"></i>
                     </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Asymmetry</h4>
-                    <p class="text-sm text-brand-muted font-light leading-relaxed">For noses slightly off-centre or asymmetric, filler creates a flawlessly balanced and harmonious facial symmetry.</p>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Asymmetry and Crookedness</h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">For noses that are slightly off-centre or asymmetric, Liquid Rhinoplasty can help create a more balanced and harmonious facial symmetry.</p>
                 </div>
                 
                 <!-- 3 -->
@@ -155,8 +155,8 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
                     <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
                         <i class="fas fa-arrow-up"></i>
                     </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Tip Elevation</h4>
-                    <p class="text-sm text-brand-muted font-light leading-relaxed">A drooping or heavy nasal tip can be subtly lifted and elegantly refined, rejuvenating the overall profile.</p>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Tip Elevation and Refinement</h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">A drooping or heavy nasal tip can be subtly lifted and refined, enhancing the overall profile and appearance of the nose.</p>
                 </div>
                 
                 <!-- 4 -->
@@ -165,7 +165,7 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
                         <i class="fas fa-ruler-horizontal"></i>
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Bridge Enhancement</h4>
-                    <p class="text-sm text-brand-muted font-light leading-relaxed">Build up and define a flat nasal bridge for individuals seeking a more pronounced, sculpted architectural structure.</p>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">The procedure can be used to build up and define the nasal bridge, which is often desirable in individuals seeking a more pronounced or higher bridge.</p>
                 </div>
                 
                 <!-- 5 -->
@@ -173,8 +173,8 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
                     <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
                         <i class="fas fa-cut"></i>
                     </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Post-Surgical Fixes</h4>
-                    <p class="text-sm text-brand-muted font-light leading-relaxed">A minimally invasive tool to make delicate minor adjustments or brilliant corrections following a previous surgical rhinoplasty.</p>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Minor Corrections Post-Surgical Rhinoplasty</h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">It can also be a minimally invasive tool to make minor adjustments or corrections following a surgical rhinoplasty.</p>
                 </div>
             </div>
         </div>
@@ -261,7 +261,7 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
                                     <i class="fas fa-times-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
                                 </div>
-                                <p class="font-heading text-xl font-light text-white/80 italic">"Results from Liquid Rhinoplasty are permanent."</p>
+                                <p class="font-heading text-xl font-light text-white/80 italic">"Results from Non Surgical Liquid Rhinoplasty are permanent."</p>
                             </div>
                             
                             <div class="relative py-2">
@@ -279,7 +279,7 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
                                     <i class="fas fa-check-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold text-white">The Fact</span>
                                 </div>
-                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">The effects last gracefully between 6-18 months, varying beautifully per individual.</p>
+                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">The effects last between 6-18 months, varying per individual.</p>
                             </div>
                         </div>
                     </div>
@@ -296,91 +296,91 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Answers</span>
                 <h3 class="font-display text-5xl text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
                 <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
-                    Explore our comprehensive FAQ section for quick answers to common queries about Liquid Rhinoplasty. Find the clarity you need without delay.
+                    Explore our comprehensive FAQ section for quick answers to common queries about Non Surgical Liquid Rhinoplasty. Find the clarity you need without delay.
                 </p>
             </div>
 
             <div class="space-y-5">
                 <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
                     <div class="p-8 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">1. Is Liquid Rhinoplasty painful?</h4>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">1. Is Non Surgical Liquid Rhinoplasty painful?</h4>
                         <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
                         <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Most patients experience minimal discomfort, thanks to specialized premium numbing agents applied before the procedure.</p>
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Most patients experience minimal discomfort, thanks to numbing agents.</p>
                         </div>
                     </div>
                 </div>
                 
                 <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
                     <div class="p-8 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">2. When can I resume normal activities?</h4>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">2. When can I resume normal activities after Non Surgical Liquid Rhinoplasty?</h4>
                         <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
                         <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Typically, right after the procedure! Just avoid heavy physical activity, extreme heat, or wearing heavy glasses for 24 hours.</p>
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Typically, right after the procedure! Just avoid heavy physical activity for 24 hours.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
                     <div class="p-8 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">3. Can I combine this with other treatments?</h4>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">3. Can I combine Non Surgical Liquid Rhinoplasty with other treatments?</h4>
                         <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
                         <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Absolutely. Discuss your holistic aesthetic goals with Dr. Chirag during consultation to curate a comprehensive, personalized treatment plan.</p>
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Absolutely, discuss your goals with Dr. Chirag to curate a comprehensive plan.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
                     <div class="p-8 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">4. What if I don't like the results?</h4>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">4. When will I see results from Non Surgical Liquid Rhinoplasty?</h4>
                         <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
                         <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">One distinct advantage is the reversibility of certain hyaluronic acid fillers. Safe, precise adjustments or complete dissolving can be easily performed if needed.</p>
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">One advantage is the reversibility of certain fillers. Adjustments can be made if needed.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
                     <div class="p-8 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">5. Are there any risks involved?</h4>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">5. Are there any risks involved with Non Surgical Liquid Rhinoplasty?</h4>
                         <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
                         <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Like all cosmetic procedures, minor risks exist, but they are exceedingly minimal when conducted by highly experienced, anatomy-expert hands like Dr. Chirag's.</p>
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Like all cosmetic procedures, there are risks, but they're minimal when conducted by experienced hands like Dr. Chirag's.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
                     <div class="p-8 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">6. What is the cost of Liquid Rhinoplasty in Uganda?</h4>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">6. What is the cost of Non Surgical Liquid Rhinoplasty in Uganda?</h4>
                         <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
                         <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Liquid Rhinoplasty cost in Uganda varies depending upon several individual factors. The premium Liquid Rhinoplasty service at Refine Skin & Body Clinic typically starts from $500.</p>
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Liquid Rhinoplasty cost in Uganda varies depending upon several factors. The cost of Liquid Rhinoplasty at Refine Skin & Body Clinic can cost anywhere From $500.</p>
                         </div>
                     </div>
                 </div>
@@ -404,6 +404,7 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
             });
         });
     </script>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

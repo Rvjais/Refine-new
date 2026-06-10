@@ -44,7 +44,7 @@
             <!-- SLIDE 2 (Still Image) -->
             <div class="swiper-slide">
                 <div class="w-full h-full relative img-duotone">
-                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_welcome-to1.webp" alt="A Skin That Fits Your Lifestyle" class="img-parallax" data-swiper-parallax="-20%" loading="lazy">
+                    <img src="/assets/images/services/body-contouring/Refine%20Skin%20and%20Body%20Clinic%20-%20Glowing%20Skin%20Starts%20Here.webp" alt="A Skin That Fits Your Lifestyle" class="img-parallax" data-swiper-parallax="-20%" loading="lazy">
                     <div class="hero-overlay-gradient"></div>
                     
                     <div class="absolute inset-0 flex items-center z-10 pt-20">
@@ -116,7 +116,7 @@
             <!-- SLIDE 4 (Clinic Logo/Interior) -->
             <div class="swiper-slide">
                 <div class="w-full h-full relative img-duotone">
-                    <img src="/assets/imagesfromsite/bg-01.webp" alt="Refine Clinic Interior" class="img-parallax" data-swiper-parallax="-20%" loading="lazy">
+                    <img src="/assets/images/services/body-contouring/BodyContouring.webp" alt="Refine Clinic Interior" class="img-parallax" data-swiper-parallax="-20%" loading="lazy">
                     <div class="hero-overlay-gradient"></div>
                     
                     <div class="absolute inset-0 flex items-center justify-center z-10 pt-20 text-center">

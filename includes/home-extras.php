@@ -130,7 +130,7 @@
                 </div>
                 <div class="relative lg:absolute lg:bottom-0 lg:right-0 w-[80%] lg:w-[55%] h-[200px] lg:h-[60%] img-reveal-wrapper shadow-2xl z-20 border-4 border-white gs-reveal-img gs-delay-1 -mt-16 lg:mt-0 ml-auto lg:ml-0">
                     <div class="img-reveal-overlay"></div>
-                    <img src="/assets/imagesfromsite/about-8.webp" alt="Refine interior" class="img-parallax object-cover w-full h-full" loading="lazy">
+                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Refine interior" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
                 <div class="hidden lg:block absolute top-8 right-4 z-30 glass-panel rounded-2xl p-4 max-w-[180px] gs-reveal-fade gs-delay-2">
                     <p class="font-display text-3xl text-brand-deeper leading-none">15+</p>
@@ -344,7 +344,7 @@
                 </div>
                 <div class="relative lg:absolute lg:bottom-0 lg:left-0 w-[80%] lg:w-[45%] h-[200px] lg:h-[55%] img-reveal-wrapper shadow-2xl rounded-3xl overflow-hidden z-20 border-4 border-white gs-reveal-img gs-delay-1 -mt-16 lg:mt-0 ml-auto lg:ml-0">
                     <div class="img-reveal-overlay"></div>
-                    <img src="/assets/imagesfromsite/Vitamin%20C-09_.png" alt="IV detail" class="img-parallax object-cover w-full h-full" loading="lazy">
+                    <img src="/assets/imagesfromsite/IV%20THERAPY.webp" alt="IV detail" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
                 <div class="hidden lg:block absolute top-8 left-0 z-30 glass-panel rounded-2xl p-4 max-w-[200px] gs-reveal-fade gs-delay-2">
                     <div class="flex items-center gap-2 mb-2">
