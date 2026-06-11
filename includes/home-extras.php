@@ -330,21 +330,6 @@
 
 
 
-<!-- ============= 8. PRESS / FEATURED IN ============= -->
-<section class="py-16 lg:py-24 bg-white border-y border-brand/5">
-    <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
-        <p class="text-center text-brand-muted text-[11px] tracking-[0.3em] uppercase font-semibold mb-10 gs-reveal-fade">As Featured In</p>
-        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6 lg:gap-10 items-center justify-items-center opacity-60 gs-reveal-fade">
-            <div class="font-display text-xl lg:text-2xl text-brand-deeper font-bold">Vogue</div>
-            <div class="font-display text-xl lg:text-2xl text-brand-deeper italic">Marie Claire</div>
-            <div class="font-heading text-lg lg:text-xl text-brand-deeper font-bold tracking-widest">FORBES</div>
-            <div class="font-display text-xl lg:text-2xl text-brand-deeper">Elle</div>
-            <div class="font-heading text-lg lg:text-xl text-brand-deeper font-semibold tracking-wider">DAILY MONITOR</div>
-            <div class="font-display text-xl lg:text-2xl text-brand-deeper italic">Glamour</div>
-        </div>
-    </div>
-</section>
-
 
 <!-- ============= 9. FINAL CTA ============= -->
 <section class="py-16 lg:py-24 bg-brand-deeper text-white relative overflow-hidden">
@@ -360,7 +345,7 @@
             Book a complimentary consultation with one of our specialists. We'll listen to your goals, answer your questions, and craft a personalized plan — with no pressure and no obligation.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="book-appointment" class="btn-magnetic magnetic-target"><span>Book Free Consultation <i class="fas fa-arrow-right text-xs ml-2"></i></span></a>
+            <a href="book-appointment" class="btn-magnetic magnetic-target" style="background: white; color: #1a0f3c;"><span>Book Free Consultation <i class="fas fa-arrow-right text-xs ml-2"></i></span></a>
             <a href="https://api.whatsapp.com/send?phone=256749574546" target="_blank" class="btn-magnetic magnetic-target" style="background: #25D366; color: white;"><i class="fa-brands fa-whatsapp mr-2"></i><span>Chat on WhatsApp</span></a>
         </div>
     </div>

@@ -15,7 +15,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
         <div class="absolute bottom-0 left-0 w-[400px] h-[400px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
         
-        <div class="max-w-[1150px] mx-auto px-6 lg:px-10 relative z-10">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
             <div class="grid xl:grid-cols-2 gap-10 xl:gap-16 items-center">
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
@@ -169,7 +169,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
         <div class="absolute top-0 right-0 w-[800px] h-[800px] bg-accent/20 rounded-full blur-[150px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
         <div class="absolute bottom-0 left-0 w-[600px] h-[600px] bg-brand/40 rounded-full blur-[150px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
         
-        <div class="max-w-[1150px] mx-auto px-6 lg:px-10 relative z-10">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
             <div class="grid lg:grid-cols-12 gap-12 xl:gap-16 items-center">
                 
                 <!-- Why Dr Chirag -->
