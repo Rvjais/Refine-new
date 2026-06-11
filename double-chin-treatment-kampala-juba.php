@@ -10,7 +10,7 @@ $pageDescription = "Eliminate stubborn submental fat and define your jawline wit
     <?php include 'includes/page-hero.php'; ?>
 
     <!-- What is Liquid Rhinoplasty? -->
-    <section class="py-20 lg:py-32 bg-[#faf9f6] relative overflow-hidden">
+    <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
         <div class="absolute bottom-0 left-0 w-[400px] h-[400px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
@@ -22,7 +22,7 @@ $pageDescription = "Eliminate stubborn submental fat and define your jawline wit
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         The Non-Surgical Nose Job
                     </div>
-                    <h2 class="font-display text-5xl lg:text-6xl text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Double Chin Treatment in Kampala?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Double Chin Treatment in Kampala?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Liquid Rhinoplasty, often termed a non-surgical nose job, employs fillers to tweak the nose's shape and profile without the downtime and invasiveness of surgery. Dr Chirag Kotecha masterfully uses this technique, delivering astounding results highlighting a patient's natural beauty.
                     </p>
@@ -30,28 +30,6 @@ $pageDescription = "Eliminate stubborn submental fat and define your jawline wit
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
                         <img src="/assets/imagesfromsite/services/double-chin.webp" alt="Double Chin Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
-                        
-                        <!-- Floating Glass Badge -->
-                        <div class="absolute bottom-8 left-8 right-8 z-20 flex flex-col sm:flex-row gap-4 pointer-events-none">
-                            <div class="backdrop-blur-md bg-white/20 border border-white/30 p-4 rounded-2xl flex items-center gap-4 flex-1 shadow-lg transform translate-y-4 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-700 delay-100">
-                                <div class="w-10 h-10 rounded-full bg-white flex items-center justify-center text-accent text-lg shadow-sm">
-                                    <i class="fas fa-clock"></i>
-                                </div>
-                                <div>
-                                    <p class="text-white font-heading font-semibold text-sm drop-shadow-md">15 Min</p>
-                                    <p class="text-white/90 text-xs font-light drop-shadow-md">Procedure</p>
-                                </div>
-                            </div>
-                            <div class="backdrop-blur-md bg-white/20 border border-white/30 p-4 rounded-2xl flex items-center gap-4 flex-1 shadow-lg transform translate-y-4 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-700 delay-200">
-                                <div class="w-10 h-10 rounded-full bg-white flex items-center justify-center text-accent text-lg shadow-sm">
-                                    <i class="fas fa-magic"></i>
-                                </div>
-                                <div>
-                                    <p class="text-white font-heading font-semibold text-sm drop-shadow-md">No Surgery</p>
-                                    <p class="text-white/90 text-xs font-light drop-shadow-md">Zero Downtime</p>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
 
@@ -59,7 +37,7 @@ $pageDescription = "Eliminate stubborn submental fat and define your jawline wit
                     <!-- Subtle timeline connector -->
                     <div class="absolute left-8 top-10 bottom-10 w-px bg-gradient-to-b from-brand/5 via-accent/30 to-brand/5 hidden sm:block"></div>
                     <div class="space-y-8 relative z-10">
-                        <h3 class="font-display text-4xl text-brand-deeper mb-10 pl-0 sm:pl-24">The <i class="text-accent font-light">Process</i></h3>
+                        <h3 class="text-section font-display text-brand-deeper mb-10 pl-0 sm:pl-24">The <i class="text-accent font-light">Process</i></h3>
                         
                         <!-- Step 1 -->
                         <div class="relative flex items-start gap-8 group">
@@ -120,68 +98,73 @@ $pageDescription = "Eliminate stubborn submental fat and define your jawline wit
     </section>
 
     <!-- Conditions Treated -->
-    <section class="py-20 lg:py-32 bg-white relative">
-        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
-            <div class="mb-20 gs-reveal-text text-center max-w-3xl mx-auto">
-                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Target Areas</span>
-                <h3 class="font-display text-4xl lg:text-5xl text-brand-deeper mb-6">Conditions <i class="text-accent font-light">Treated</i></h3>
-                <p class="text-brand-muted font-body text-xl font-light leading-relaxed">
-                    This treatment is remarkably versatile. Explore how this non-invasive technique addresses diverse aesthetic concerns to restore balance and harmony.
-                </p>
-            </div>
+    <section class="py-16 lg:py-24 bg-white relative">
+    <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
+      <div class="mb-12 gs-reveal-text text-center max-w-3xl mx-auto">
+        <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Target Areas</span>
+        <h3 class="text-section font-display text-brand-deeper mb-6">Conditions <i class="text-accent font-light">Treated</i></h3>
+        <p class="text-brand-muted font-body text-xl font-light leading-relaxed">
+          This treatment is remarkably versatile. Explore how this non-invasive technique addresses diverse aesthetic concerns to restore balance and harmony.
+        </p>
+      </div>
 
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-[minmax(180px,auto)] gs-stagger-bento">
-                <!-- 1: Large Span -->
-                <div class="md:col-span-2 group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item overflow-hidden relative">
-                    <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl relative z-10 border border-brand/5 group-hover:border-accent/20">
-                        <i class="fas fa-wave-square"></i>
-                    </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-2xl mb-4 relative z-10">Genetics</h4>
-                    <p class="text-base text-brand-muted font-light leading-relaxed max-w-md relative z-10">Family traits play a role in determining your facial structure and fat storage patterns. If your parents or grandparents had a double chin, you might be more predisposed to develop one, regardless of your body weight or fitness level.</p>
-                </div>
-                
-                <!-- 2 -->
-                <div class="group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
-                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
-                        <i class="fas fa-balance-scale"></i>
-                    </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Ageing</h4>
-                    <p class="text-sm text-brand-muted font-light leading-relaxed">With age, the skin loses its elasticity and natural collagen, causing it to sag. This, coupled with the natural loss of muscle tone if not actively maintained, can lead to the formation of a double chin.</p>
-                </div>
-                
-                <!-- 3 -->
-                <div class="group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
-                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
-                        <i class="fas fa-arrow-up"></i>
-                    </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Weight Gain and Diet</h4>
-                    <p class="text-sm text-brand-muted font-light leading-relaxed">While a double chin is not exclusively caused by weight gain, excess weight can accentuate its appearance. Moreover, diets high in unhealthy fats, sugars, and calories can contribute to both weight gain and skin sagging.</p>
-                </div>
-                
-                <!-- 4 -->
-                <div class="group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
-                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
-                        <i class="fas fa-ruler-horizontal"></i>
-                    </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Facial Bone Structure</h4>
-                    <p class="text-sm text-brand-muted font-light leading-relaxed">Some individuals, due to their bone structure, might have a more recessed or weak jawline, making even a tiny amount of submental fat noticeable.</p>
-                </div>
-                
-                <!-- 5 -->
-                <div class="md:col-span-2 lg:col-span-1 group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
-                    <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
-                        <i class="fas fa-cut"></i>
-                    </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3">Post-Surgical Fixes</h4>
-                    <p class="text-sm text-brand-muted font-light leading-relaxed">A minimally invasive tool to make delicate minor adjustments or brilliant corrections following a previous surgical rhinoplasty.</p>
-                </div>
-            </div>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 gs-stagger-bento">
+        <!-- 1: Large Span -->
+        <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
+          <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Genetics</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Family traits play a role in determining your facial structure and fat storage patterns. If your parents or grandparents had a double chin, you might be more predisposed to develop one, regardless of your body weight or fitness level. Our expert team utilizes advanced, evidence-based techniques to address this effectively. We personalize every step of the process to ensure optimal, long-lasting results that harmonize with your natural aesthetics and restore your confidence.</p>
+        
+          <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
+            <i class="fas fa-arrow-right -rotate-45"></i>
+          </div>
         </div>
-    </section>
+        
+        <!-- 2 -->
+        <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Ageing</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">With age, the skin loses its elasticity and natural collagen, causing it to sag. This, coupled with the natural loss of muscle tone if not actively maintained, can lead to the formation of a double chin.</p>
+        
+          <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
+            <i class="fas fa-arrow-right -rotate-45"></i>
+          </div>
+        </div>
+        
+        <!-- 3 -->
+        <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Weight Gain and Diet</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">While a double chin is not exclusively caused by weight gain, excess weight can accentuate its appearance. Moreover, diets high in unhealthy fats, sugars, and calories can contribute to both weight gain and skin sagging.</p>
+        
+          <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
+            <i class="fas fa-arrow-right -rotate-45"></i>
+          </div>
+        </div>
+        
+        <!-- 4 -->
+        <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Facial Bone Structure</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Some individuals, due to their bone structure, might have a more recessed or weak jawline, making even a tiny amount of submental fat noticeable.</p>
+        
+          <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
+            <i class="fas fa-arrow-right -rotate-45"></i>
+          </div>
+        </div>
+        
+        <!-- 5 -->
+        <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Post-Surgical Fixes</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">A minimally invasive tool to make delicate minor adjustments or brilliant corrections following a previous surgical rhinoplasty.</p>
+        
+          <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
+            <i class="fas fa-arrow-right -rotate-45"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
     <!-- Why Opt for Dr. Chirag & Myths -->
-    <section class="py-20 lg:py-32 bg-brand-deeper text-white relative overflow-hidden">
+    <section class="py-16 lg:py-24 bg-brand-deeper text-white relative overflow-hidden">
         <div class="absolute inset-0 bg-[url('/assets/imagesfromsite/pattern.svg')] bg-repeat opacity-[0.03]"></div>
         <div class="absolute top-0 right-0 w-[800px] h-[800px] bg-accent/20 rounded-full blur-[150px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
         <div class="absolute bottom-0 left-0 w-[600px] h-[600px] bg-brand/40 rounded-full blur-[150px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
@@ -202,7 +185,7 @@ $pageDescription = "Eliminate stubborn submental fat and define your jawline wit
                                 <img src="/assets/imagesfromsite/dr_chirag_kotecha.png" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover filter grayscale-[0.1] group-hover:grayscale-0 transition-all duration-700 scale-100 group-hover:scale-110">
                             </div>
                             <div>
-                                <h3 class="font-display text-5xl lg:text-6xl leading-tight m-0 drop-shadow-lg">Why Opt for <br/><i class="text-accent font-light">Dr. Chirag?</i></h3>
+                                <h3 class="text-section font-display leading-tight m-0 drop-shadow-lg">Why Opt for <br/><i class="text-accent font-light">Dr. Chirag?</i></h3>
                             </div>
                         </div>
                     </div>
@@ -252,7 +235,7 @@ $pageDescription = "Eliminate stubborn submental fat and define your jawline wit
                             <div class="w-12 h-12 rounded-full bg-accent/20 flex items-center justify-center text-accent text-xl border border-accent/20">
                                 <i class="fas fa-lightbulb"></i>
                             </div>
-                            <h3 class="font-display text-4xl m-0"><i class="text-accent font-light">Myths</i> & Facts</h3>
+                            <h3 class="text-section font-display m-0"><i class="text-accent font-light">Myths</i> & Facts</h3>
                         </div>
                         
                         <div class="space-y-8 relative z-10">
@@ -290,103 +273,103 @@ $pageDescription = "Eliminate stubborn submental fat and define your jawline wit
     </section>
 
     <!-- FAQ Block -->
-    <section class="py-20 lg:py-32 bg-[#faf9f6]">
-        <div class="max-w-[900px] mx-auto px-6">
-            <div class="text-center mb-16">
-                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Answers</span>
-                <h3 class="font-display text-5xl text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
-                <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
-                    Explore our comprehensive FAQ section for quick answers to common queries about Double Chin Treatment. Find the clarity you need without delay.
-                </p>
+  <section class="py-16 lg:py-24 bg-[#faf9f6]">
+    <div class="max-w-[900px] mx-auto px-6">
+      <div class="text-center mb-16">
+        <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Answers</span>
+        <h3 class="text-section font-display text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
+        <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
+          Explore our comprehensive FAQ section for quick answers to common queries about Double Chin Treatment. Find the clarity you need without delay.
+        </p>
+      </div>
+
+      <div class="space-y-3">
+        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. Is the treatment for a double chin permanent?</h4>
+            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
-
-            <div class="space-y-5">
-                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-                    <div class="p-8 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">1. Is the treatment for a double chin permanent?</h4>
-                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
-                        </div>
-                    </div>
-                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-                        <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Kybella offers permanent results as it destroys fat cells. CoolSculpting results can be long-lasting with proper maintenance.</p>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-                    <div class="p-8 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">2. How many sessions will I need?</h4>
-                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
-                        </div>
-                    </div>
-                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-                        <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">This depends on individual needs. Typically, multiple sessions yield the best results.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-                    <div class="p-8 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">3. Are there any side effects?</h4>
-                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
-                        </div>
-                    </div>
-                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-                        <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Temporary swelling or numbness can occur, which subsides in a few days.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-                    <div class="p-8 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">4. Is there any post-treatment care required?</h4>
-                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
-                        </div>
-                    </div>
-                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-                        <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">It's best to avoid strenuous activities for 24 hours post-treatment. Regular skincare can be resumed immediately.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-                    <div class="p-8 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">5. What is the cost of Double Chin treatment in Uganda?</h4>
-                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
-                        </div>
-                    </div>
-                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-                        <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Double Chin Treatment cost in Uganda varies depending upon several factors. The cost of Double Chin Treatment at Refine Skin & Body Clinic can cost anywhere From $450.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-                    <div class="p-8 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">6. What is the cost of Double Chin Treatment in Uganda?</h4>
-                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
-                        </div>
-                    </div>
-                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-                        <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">The cost for Double Chin Treatment varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
-                        </div>
-                    </div>
-                </div>
+          </div>
+          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Kybella offers permanent results as it destroys fat cells. CoolSculpting results can be long-lasting with proper maintenance.</p>
             </div>
+          </div>
         </div>
-    </section>
+        
+        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. How many sessions will I need?</h4>
+            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+            </div>
+          </div>
+          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">This depends on individual needs. Typically, multiple sessions yield the best results.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. Are there any side effects?</h4>
+            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+            </div>
+          </div>
+          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Temporary swelling or numbness can occur, which subsides in a few days.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">4. Is there any post-treatment care required?</h4>
+            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+            </div>
+          </div>
+          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">It's best to avoid strenuous activities for 24 hours post-treatment. Regular skincare can be resumed immediately.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. What is the cost of Double Chin treatment in Uganda?</h4>
+            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+            </div>
+          </div>
+          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Double Chin Treatment cost in Uganda varies depending upon several factors. The cost of Double Chin Treatment at Refine Skin & Body Clinic can cost anywhere From $450.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Double Chin Treatment in Uganda?</h4>
+            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+            </div>
+          </div>
+          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The cost for Double Chin Treatment varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
     <script>
         document.querySelectorAll('.faq-item').forEach(item => {

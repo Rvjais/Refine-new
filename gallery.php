@@ -24,7 +24,7 @@ $pageDescription = "Browse through our collection of authentic transformations, 
                 </div>
                 <div class="absolute bottom-10 left-10 text-white">
                     <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-2 font-semibold shadow-black drop-shadow-md">Virtual Tour</span>
-                    <h3 class="font-display text-4xl shadow-black drop-shadow-lg">Experience Refine</h3>
+                    <h3 class="text-section font-display shadow-black drop-shadow-lg">Experience Refine</h3>
                 </div>
             </div>
         </div>
@@ -37,7 +37,7 @@ $pageDescription = "Browse through our collection of authentic transformations, 
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
             
             <div class="text-center mb-16 gs-reveal-text">
-                <h2 class="font-display text-4xl text-brand-deeper mb-6">Our <i class="text-accent font-light">Spaces & Results.</i></h2>
+                <h2 class="text-section font-display text-brand-deeper mb-6">Our <i class="text-accent font-light">Spaces & Results.</i></h2>
             </div>
 
             <!-- Filters -->
@@ -105,11 +105,11 @@ $pageDescription = "Browse through our collection of authentic transformations, 
     <!-- ============================================
          TECHNOLOGY SPOTLIGHT
          ============================================ -->
-    <section class="py-16 lg:py-32 bg-white border-t border-brand/5">
+    <section class="py-16 lg:py-24 bg-white border-t border-brand/5">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
             <div class="text-center mb-16 gs-reveal-text">
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Our Arsenal</span>
-                <h2 class="font-display text-4xl text-brand-deeper">Clinical <i class="text-accent font-light">Technology.</i></h2>
+                <h2 class="text-section font-display text-brand-deeper">Clinical <i class="text-accent font-light">Technology.</i></h2>
                 <p class="text-brand-muted font-body text-sm mt-4 font-light max-w-2xl mx-auto">We utilize only the gold standard in FDA-approved aesthetic technology.</p>
             </div>
 

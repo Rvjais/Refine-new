@@ -17,7 +17,7 @@
         </div>
 
         <!-- Editorial Swiper Carousel (Coverflow effect configured in JS) -->
-        <div class="testimonials-swiper swiper pb-24 gs-reveal-fade">
+        <div class="testimonials-swiper swiper gs-reveal-fade">
             <div class="swiper-wrapper">
 
                 <!-- Testimonial 1 -->
@@ -27,7 +27,7 @@
                         <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
                             <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                         </div>
-                        <h4 class="font-display text-2xl lg:text-3xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
+                        <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
                             This skin clinic exceeded my expectations! The staff was knowledgeable, friendly, and the treatments were highly effective.
                         </h4>
                         <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
@@ -47,7 +47,7 @@
                         <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
                             <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                         </div>
-                        <h4 class="font-display text-2xl lg:text-3xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
+                        <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
                             Outstanding skin clinic! Exceptional staff, top-quality treatments, and remarkable results. A true gem in the industry!
                         </h4>
                         <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
@@ -67,7 +67,7 @@
                         <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
                             <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                         </div>
-                        <h4 class="font-display text-2xl lg:text-3xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
+                        <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
                             Fantastic skin clinic! Expert staff, superb treatments, and impressive outcomes. A top-notch establishment.
                         </h4>
                         <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
@@ -87,7 +87,7 @@
                         <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
                             <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                         </div>
-                        <h4 class="font-display text-2xl lg:text-3xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
+                        <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
                             Revolutionary experience: expert staff, personalized treatments, astounding outcomes. Elevate your skincare journey here.
                         </h4>
                         <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
@@ -107,7 +107,7 @@
                         <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
                             <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                         </div>
-                        <h4 class="font-display text-2xl lg:text-3xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
+                        <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
                             This skin clinic exceeded my expectations! The staff was knowledgeable, friendly, and the treatments were highly effective.
                         </h4>
                         <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
@@ -127,7 +127,7 @@
                         <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
                             <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                         </div>
-                        <h4 class="font-display text-2xl lg:text-3xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
+                        <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
                             Outstanding skin clinic! Exceptional staff, top-quality treatments, and remarkable results. A true gem in the industry!
                         </h4>
                         <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
@@ -147,7 +147,7 @@
                         <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
                             <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                         </div>
-                        <h4 class="font-display text-2xl lg:text-3xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
+                        <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
                             Fantastic skin clinic! Expert staff, superb treatments, and impressive outcomes. A top-notch establishment.
                         </h4>
                         <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
@@ -167,7 +167,7 @@
                         <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
                             <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                         </div>
-                        <h4 class="font-display text-2xl lg:text-3xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
+                        <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic">
                             Revolutionary experience: expert staff, personalized treatments, astounding outcomes. Elevate your skincare journey here.
                         </h4>
                         <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
@@ -196,27 +196,3 @@
     </div>
 </section>
 
-<!-- ============================================
-     CTA BANNER (Mesh Gradient)
-     ============================================ -->
-<section class="relative py-20 lg:py-32 overflow-hidden mesh-gradient-dark text-center">
-    
-    <div class="max-w-[1000px] mx-auto px-6 relative z-10 gs-reveal-text">
-        <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-8 font-semibold">Take The First Step</span>
-        <h2 class="font-display text-hero text-white leading-tight mb-8">
-            Ready to <i class="text-accent font-light">Transform?</i>
-        </h2>
-        <p class="text-white/60 font-body text-lg lg:text-xl font-light leading-relaxed mb-12 max-w-2xl mx-auto">
-            Book a private consultation with our specialists to craft a bespoke treatment plan tailored exactly to your vision.
-        </p>
-        
-        <div class="flex flex-col sm:flex-row items-center justify-center gap-6">
-            <a href="contact" class="btn-magnetic bg-white text-brand-deeper hover:text-brand-deeper magnetic-target w-full sm:w-auto">
-                <span>Book Appointment</span>
-            </a>
-            <a href="tel:+256758232889" class="btn-magnetic btn-outline border-white/30 text-white hover:border-white magnetic-target w-full sm:w-auto">
-                <span><i class="fas fa-phone mr-2 text-accent"></i> (+256) 758 232 889</span>
-            </a>
-        </div>
-    </div>
-</section>

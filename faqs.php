@@ -130,7 +130,7 @@ $pageDescription = "Find answers to the most common questions about our treatmen
     <!-- ============================================
          STILL NEED HELP CTA
          ============================================ -->
-    <section class="py-16 bg-white border-t border-brand/5">
+    <section class="py-16 lg:py-24 bg-white border-t border-brand/5">
         <div class="max-w-[1000px] mx-auto px-6 text-center">
             <div class="glass-panel-dark p-12 rounded-[40px] bg-brand-deeper text-white shadow-2xl">
                 <i class="fas fa-headset text-4xl text-accent mb-6"></i>

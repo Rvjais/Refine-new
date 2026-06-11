@@ -14,7 +14,7 @@ $pageDescription = "Meet the highly skilled nurses and therapists who ensure you
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
             
             <div class="text-center mb-16 gs-reveal-text">
-                <h2 class="font-display text-3xl lg:text-4xl text-brand-deeper">Nurses & Therapists</h2>
+                <h2 class="text-section font-display text-brand-deeper">Nurses & Therapists</h2>
                 <p class="text-brand-muted font-body text-sm mt-4 font-light max-w-2xl mx-auto">Our clinical team undergoes rigorous, continuous training in global aesthetic standards, ensuring you receive care that is both safe and exceptionally effective.</p>
             </div>
 

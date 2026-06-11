@@ -19,7 +19,7 @@
                 
                 <div class="text-center mb-12 relative z-10">
                     <p class="text-accent text-[10px] tracking-[0.3em] uppercase font-semibold mb-3">Priority Booking</p>
-                    <h3 class="font-display text-3xl lg:text-4xl text-white leading-tight mb-4">Request an Appointment</h3>
+                    <h3 class="text-section font-display text-white leading-tight mb-4">Request an Appointment</h3>
                     <p class="text-white/55 font-body text-sm font-light max-w-2xl mx-auto">Please fill out the form below and our scheduling team will contact you to confirm your appointment.</p>
                 </div>
 

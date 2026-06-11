@@ -18,7 +18,7 @@ $pageDescription = "A collective of award-winning dermatologists, elite surgeons
             
             <div class="text-center mb-16 gs-reveal-text">
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Our Collective</span>
-                <h2 class="font-display text-4xl text-brand-deeper">Leadership & <i class="text-accent font-light">Physicians</i></h2>
+                <h2 class="text-section font-display text-brand-deeper">Leadership & <i class="text-accent font-light">Physicians</i></h2>
             </div>
 
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 gs-stagger-bento mb-24">

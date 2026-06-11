@@ -25,52 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // ─── MAGNETIC BUTTONS ────────────────────────────
-    const magneticTargets = document.querySelectorAll('.magnetic-target');
-    
-    magneticTargets.forEach((btn) => {
-        btn.addEventListener('mousemove', (e) => {
-            const rect = btn.getBoundingClientRect();
-            const x = e.clientX - rect.left - rect.width / 2;
-            const y = e.clientY - rect.top - rect.height / 2;
-            
-            gsap.to(btn, {
-                x: x * 0.3,
-                y: y * 0.3,
-                duration: 0.4,
-                ease: 'power2.out'
-            });
-            
-            // If button has child span/icon, move them slightly more for parallax
-            const children = btn.children;
-            if(children.length > 0) {
-                gsap.to(children, {
-                    x: x * 0.15,
-                    y: y * 0.15,
-                    duration: 0.4,
-                    ease: 'power2.out'
-                });
-            }
-        });
-
-        btn.addEventListener('mouseleave', () => {
-            gsap.to(btn, {
-                x: 0,
-                y: 0,
-                duration: 0.7,
-                ease: 'elastic.out(1, 0.3)'
-            });
-            const children = btn.children;
-            if(children.length > 0) {
-                gsap.to(children, {
-                    x: 0,
-                    y: 0,
-                    duration: 0.7,
-                    ease: 'elastic.out(1, 0.3)'
-                });
-            }
-        });
-    });
+    // ─── MAGNETIC BUTTONS (Disabled for minimal interactions) ─────────
 
     // ─── HERO SWIPER ─────────────────────────────────
     let isInitialLoad = true;

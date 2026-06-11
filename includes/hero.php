@@ -83,24 +83,24 @@
                     <img src="/assets/imagesfromsite/breadcrumbsgall.webp" alt="Quality Skin Treatment" class="img-parallax" data-swiper-parallax="-20%" loading="lazy">
                     <div class="hero-overlay-gradient"></div>
                     
-                    <div class="absolute inset-0 flex items-center justify-end z-10 pt-20 text-right">
-                        <div class="max-w-[1600px] w-full mx-auto px-6 lg:px-10 flex justify-end">
+                    <div class="absolute inset-0 flex items-center justify-center md:justify-end z-10 pt-20 text-center md:text-right">
+                        <div class="max-w-[1600px] w-full mx-auto px-6 lg:px-10 flex justify-center md:justify-end">
                             <div class="max-w-5xl">
-                                <div class="overflow-hidden mb-6 flex justify-end">
+                                <div class="overflow-hidden mb-6 flex justify-center md:justify-end">
                                     <span class="block text-accent font-body text-xs tracking-[0.3em] uppercase hero-stagger-text font-semibold">Masterful Care</span>
                                 </div>
-                                <div class="overflow-hidden mb-2 flex justify-end">
+                                <div class="overflow-hidden mb-2 flex justify-center md:justify-end">
                                     <h2 class="hero-display-text hero-stagger-text">Uncompromising</h2>
                                 </div>
-                                <div class="overflow-hidden mb-8 flex justify-end">
+                                <div class="overflow-hidden mb-8 flex justify-center md:justify-end">
                                     <h2 class="hero-display-text hero-stagger-text"><i>Quality.</i></h2>
                                 </div>
-                                <div class="overflow-hidden mb-12 flex justify-end">
+                                <div class="overflow-hidden mb-12 flex justify-center md:justify-end">
                                     <p class="text-white/80 font-body text-lg max-w-md hero-stagger-text font-light leading-relaxed">
                                         World-class skin treatments delivering radiant, long-lasting results.
                                     </p>
                                 </div>
-                                <div class="overflow-hidden flex justify-end">
+                                <div class="overflow-hidden flex justify-center md:justify-end">
                                     <div class="hero-stagger-text">
                                         <a href="about" class="btn-magnetic magnetic-target">
                                             <span>The Clinic</span>

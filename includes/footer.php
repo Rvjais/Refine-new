@@ -12,7 +12,7 @@
         <div class="mb-16 border-b border-white/10 pb-16 pt-8 px-4 lg:px-16 max-w-[1400px] mx-auto">
             <div class="text-center max-w-3xl mx-auto mb-12">
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Find Us</span>
-                <h2 class="font-display text-3xl lg:text-4xl text-white leading-tight mb-4">
+                <h2 class="text-section font-display text-white leading-tight mb-4">
                     Four Locations. <i class="text-accent font-light">One Standard.</i>
                 </h2>
             </div>
@@ -94,11 +94,11 @@
         </div>
 
         <!-- ── MIDDLE: Categorised link grid ──────────────── -->
-        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-10 lg:gap-8 py-16 border-b border-white/10">
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-10 lg:gap-8 py-16 border-b border-white/10 text-center">
 
             <!-- Column 1: Cosmetic -->
             <div>
-                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-6 flex items-center gap-2">
+                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-6 flex items-center justify-center gap-2">
                     <i class="fas fa-spa text-accent text-[10px]"></i> Cosmetic
                 </h4>
                 <ul class="space-y-3">
@@ -116,7 +116,7 @@
 
             <!-- Column 2: Medical -->
             <div>
-                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-6 flex items-center gap-2">
+                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-6 flex items-center justify-center gap-2">
                     <i class="fas fa-stethoscope text-accent text-[10px]"></i> Medical
                 </h4>
                 <ul class="space-y-3">
@@ -133,7 +133,7 @@
 
             <!-- Column 3: Hair & Body -->
             <div>
-                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-6 flex items-center gap-2">
+                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-6 flex items-center justify-center gap-2">
                     <i class="fas fa-head-side text-accent text-[10px]"></i> Hair &amp; Body
                 </h4>
                 <ul class="space-y-3">
@@ -151,7 +151,7 @@
 
             <!-- Column 4: Wellness & IV -->
             <div>
-                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-6 flex items-center gap-2">
+                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-6 flex items-center justify-center gap-2">
                     <i class="fas fa-bolt text-accent text-[10px]"></i> Wellness
                 </h4>
                 <ul class="space-y-3">
@@ -169,7 +169,7 @@
 
             <!-- Column 5: Clinic -->
             <div>
-                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-6 flex items-center gap-2">
+                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-6 flex items-center justify-center gap-2">
                     <i class="fas fa-hospital text-accent text-[10px]"></i> The Clinic
                 </h4>
                 <ul class="space-y-3">
@@ -184,57 +184,28 @@
                     <li><a href="careers" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Careers</a></li>
                 </ul>
             </div>
-
-            <!-- Column 6: Contact / Locations -->
-            <div>
-                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-6 flex items-center gap-2">
-                    <i class="fas fa-map-pin text-accent text-[10px]"></i> Contact
-                </h4>
-                <ul class="space-y-5">
-                    <li>
-                        <p class="text-white text-sm font-medium mb-1">Forest Mall HQ</p>
-                        <p class="text-white/45 text-[11px] leading-relaxed mb-1">Unit GF4 Block B, Lugogo Bypass</p>
-                        <a href="tel:+256758232889" class="text-accent hover:text-white transition-colors text-[11px] inline-flex items-center gap-1.5"><i class="fas fa-phone-alt text-[9px]"></i> +256 758 232 889</a>
-                    </li>
-                    <li>
-                        <p class="text-white text-sm font-medium mb-1">Palm Village, Kabalagala</p>
-                        <p class="text-white/45 text-[11px] leading-relaxed mb-1">Palm Village Mall, 2nd Floor</p>
-                        <a href="tel:+256705035096" class="text-accent hover:text-white transition-colors text-[11px] inline-flex items-center gap-1.5"><i class="fas fa-phone-alt text-[9px]"></i> +256 705 035 096</a>
-                    </li>
-                    <li>
-                        <p class="text-white text-sm font-medium mb-1">UMC Victoria, Bukoto</p>
-                        <p class="text-white/45 text-[11px] leading-relaxed mb-1">UMC Victoria Hospital Annex</p>
-                        <a href="tel:+256748951996" class="text-accent hover:text-white transition-colors text-[11px] inline-flex items-center gap-1.5"><i class="fas fa-phone-alt text-[9px]"></i> +256 748 951 996</a>
-                    </li>
-                    <li>
-                        <p class="text-white text-sm font-medium mb-1">Juba, South Sudan</p>
-                        <p class="text-white/45 text-[11px] leading-relaxed mb-1">1st Floor, Sadeco Bldg, Airport Rd</p>
-                        <a href="tel:+211922687111" class="text-accent hover:text-white transition-colors text-[11px] inline-flex items-center gap-1.5"><i class="fas fa-phone-alt text-[9px]"></i> +211 922 687 111</a>
-                    </li>
-                </ul>
-            </div>
         </div>
 
         <!-- ── HOURS STRIP ──────────────── -->
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 py-12 border-b border-white/10">
-            <div>
-                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-5 flex items-center gap-2">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 py-12 border-b border-white/10 text-center">
+            <div class="flex flex-col items-center">
+                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-5 flex items-center justify-center gap-2">
                     <i class="far fa-clock text-accent text-[10px]"></i> Forest Mall (HQ) Hours
                 </h4>
-                <ul class="grid grid-cols-3 gap-3 text-white/60 text-sm font-light">
-                    <li class="flex flex-col"><span class="text-white/40 text-[10px] uppercase tracking-widest">Mon, Wed, Fri</span><span class="text-white">09:00 – 18:00</span></li>
-                    <li class="flex flex-col"><span class="text-white/40 text-[10px] uppercase tracking-widest">Tue, Thu</span><span class="text-white">10:00 – 19:00</span></li>
-                    <li class="flex flex-col"><span class="text-white/40 text-[10px] uppercase tracking-widest">Saturday</span><span class="text-white">09:00 – 17:00</span></li>
+                <ul class="flex flex-wrap gap-8 text-white/60 text-sm font-light justify-center">
+                    <li class="flex flex-col"><span class="text-white/40 text-[10px] uppercase tracking-widest mb-1 text-center">Mon, Wed, Fri</span><span class="text-white text-center">09:00 – 18:00</span></li>
+                    <li class="flex flex-col"><span class="text-white/40 text-[10px] uppercase tracking-widest mb-1 text-center">Tue, Thu</span><span class="text-white text-center">10:00 – 19:00</span></li>
+                    <li class="flex flex-col"><span class="text-white/40 text-[10px] uppercase tracking-widest mb-1 text-center">Saturday</span><span class="text-white text-center">09:00 – 17:00</span></li>
                 </ul>
             </div>
-            <div>
-                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-5 flex items-center gap-2">
+            <div class="flex flex-col items-center">
+                <h4 class="font-heading font-semibold text-white text-xs tracking-[0.2em] uppercase mb-5 flex items-center justify-center gap-2">
                     <i class="far fa-clock text-accent text-[10px]"></i> Other Branches Hours
                 </h4>
-                <ul class="grid grid-cols-3 gap-3 text-white/60 text-sm font-light">
-                    <li class="flex flex-col"><span class="text-white/40 text-[10px] uppercase tracking-widest">Mon – Sat</span><span class="text-white">10:00 – 18:00</span></li>
-                    <li class="flex flex-col"><span class="text-white/40 text-[10px] uppercase tracking-widest">Sunday</span><span class="text-white">Closed</span></li>
-                    <li class="flex flex-col"><span class="text-white/40 text-[10px] uppercase tracking-widest">Holidays</span><span class="text-white">By appt.</span></li>
+                <ul class="flex flex-wrap gap-8 text-white/60 text-sm font-light justify-center">
+                    <li class="flex flex-col"><span class="text-white/40 text-[10px] uppercase tracking-widest mb-1 text-center">Mon – Sat</span><span class="text-white text-center">10:00 – 18:00</span></li>
+                    <li class="flex flex-col"><span class="text-white/40 text-[10px] uppercase tracking-widest mb-1 text-center">Sunday</span><span class="text-white text-center">Closed</span></li>
+                    <li class="flex flex-col"><span class="text-white/40 text-[10px] uppercase tracking-widest mb-1 text-center">Holidays</span><span class="text-white text-center">By appt.</span></li>
                 </ul>
             </div>
         </div>

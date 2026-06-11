@@ -12,7 +12,7 @@
      ============================================ -->
 
 <!-- ============= 1. TRUST / CREDENTIALS BAR ============= -->
-<section class="py-10 lg:py-14 bg-white border-y border-brand/5">
+<section class="py-16 lg:py-24 bg-white border-y border-brand/5">
     <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
         <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6 items-center gs-reveal-fade">
             <div class="flex items-center justify-center gap-3 text-brand-deeper">
@@ -63,9 +63,6 @@
                 <img src="/assets/imagesfromsite/dermatology-new-09.webp" alt="Skin" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
                 <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-brand-deeper/40 to-transparent"></div>
                 <div class="absolute inset-0 p-6 lg:p-7 flex flex-col justify-end text-white">
-                    <div class="w-11 h-11 rounded-full bg-white/10 backdrop-blur-md flex items-center justify-center mb-4 ring-1 ring-white/20">
-                        <i class="fas fa-spa text-accent"></i>
-                    </div>
                     <h3 class="font-display text-2xl lg:text-3xl mb-2">Skin &amp; Face</h3>
                     <p class="text-white/70 text-xs lg:text-sm font-light leading-relaxed mb-4">Botox, fillers, HydraFacial, peels, microneedling, CO2 laser.</p>
                     <span class="text-accent text-[11px] uppercase tracking-widest font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">Explore <i class="fas fa-arrow-right text-[10px]"></i></span>
@@ -77,9 +74,6 @@
                 <img src="/assets/imagesfromsite/prp-hair-restoration-09.png" alt="Hair" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
                 <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-brand-deeper/40 to-transparent"></div>
                 <div class="absolute inset-0 p-6 lg:p-7 flex flex-col justify-end text-white">
-                    <div class="w-11 h-11 rounded-full bg-white/10 backdrop-blur-md flex items-center justify-center mb-4 ring-1 ring-white/20">
-                        <i class="fas fa-head-side text-accent"></i>
-                    </div>
                     <h3 class="font-display text-2xl lg:text-3xl mb-2">Hair Restoration</h3>
                     <p class="text-white/70 text-xs lg:text-sm font-light leading-relaxed mb-4">FUE transplant, PRP, eyebrow &amp; beard transplant, microblading.</p>
                     <span class="text-accent text-[11px] uppercase tracking-widest font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">Explore <i class="fas fa-arrow-right text-[10px]"></i></span>
@@ -91,9 +85,6 @@
                 <img src="/assets/imagesfromsite/Em%20body%20sculpt-09.webp" alt="Body" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
                 <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-brand-deeper/40 to-transparent"></div>
                 <div class="absolute inset-0 p-6 lg:p-7 flex flex-col justify-end text-white">
-                    <div class="w-11 h-11 rounded-full bg-white/10 backdrop-blur-md flex items-center justify-center mb-4 ring-1 ring-white/20">
-                        <i class="fas fa-body-text text-accent"></i>
-                    </div>
                     <h3 class="font-display text-2xl lg:text-3xl mb-2">Body &amp; Sculpt</h3>
                     <p class="text-white/70 text-xs lg:text-sm font-light leading-relaxed mb-4">Liposuction, tummy tuck, BBL, mommy makeover, EM sculpt.</p>
                     <span class="text-accent text-[11px] uppercase tracking-widest font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">Explore <i class="fas fa-arrow-right text-[10px]"></i></span>
@@ -105,9 +96,6 @@
                 <img src="/assets/imagesfromsite/IV-Therapy_09.png" alt="IV Wellness" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
                 <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-brand-deeper/40 to-transparent"></div>
                 <div class="absolute inset-0 p-6 lg:p-7 flex flex-col justify-end text-white">
-                    <div class="w-11 h-11 rounded-full bg-white/10 backdrop-blur-md flex items-center justify-center mb-4 ring-1 ring-white/20">
-                        <i class="fas fa-bolt text-accent"></i>
-                    </div>
                     <h3 class="font-display text-2xl lg:text-3xl mb-2">Wellness &amp; IV</h3>
                     <p class="text-white/70 text-xs lg:text-sm font-light leading-relaxed mb-4">Weight loss, BHRT, NAD+ IV, Myers' cocktails, NAD+ longevity.</p>
                     <span class="text-accent text-[11px] uppercase tracking-widest font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">Explore <i class="fas fa-arrow-right text-[10px]"></i></span>
@@ -123,18 +111,10 @@
     <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
         <div class="grid lg:grid-cols-12 gap-12 lg:gap-16 items-center">
             <!-- Image composition -->
-            <div class="lg:col-span-6 relative h-auto lg:h-[640px] gs-reveal-img-group flex flex-col lg:block">
-                <div class="relative lg:absolute lg:top-0 lg:left-0 w-full lg:w-[60%] h-[300px] lg:h-[70%] img-reveal-wrapper shadow-2xl z-10 gs-reveal-img mb-6 lg:mb-0">
+            <div class="lg:col-span-6 gs-reveal-img-group">
+                <div class="relative w-full h-[400px] lg:h-[500px] img-reveal-wrapper shadow-2xl gs-reveal-img">
                     <div class="img-reveal-overlay"></div>
                     <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Refine treatment" class="img-parallax object-cover w-full h-full" loading="lazy">
-                </div>
-                <div class="relative lg:absolute lg:bottom-0 lg:right-0 w-[80%] lg:w-[55%] h-[200px] lg:h-[60%] img-reveal-wrapper shadow-2xl z-20 border-4 border-white gs-reveal-img gs-delay-1 -mt-16 lg:mt-0 ml-auto lg:ml-0">
-                    <div class="img-reveal-overlay"></div>
-                    <img src="/assets/imagesfromsite/HydraFacial.webp" alt="Refine interior" class="img-parallax object-cover w-full h-full" loading="lazy">
-                </div>
-                <div class="hidden lg:block absolute top-8 right-4 z-30 glass-panel rounded-2xl p-4 max-w-[180px] gs-reveal-fade gs-delay-2">
-                    <p class="font-display text-3xl text-brand-deeper leading-none">15+</p>
-                    <p class="text-xs text-brand-muted font-light leading-snug mt-2">Years pioneering aesthetic medicine in East Africa.</p>
                 </div>
             </div>
 
@@ -211,7 +191,19 @@
         </div>
 
         <div id="doctors-grid" class="grid grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 gs-stagger-bento">
-            <!-- Dr 1 -->
+            <!-- Dr 1 (Chirag) -->
+            <a href="dr-chirag-kotecha-dermatologist-in-uganda" class="group block bento-item">
+                <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
+                    <img src="/assets/imagesfromsite/doc.webp" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
+                    <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-transparent to-transparent"></div>
+                    <div class="absolute bottom-0 left-0 right-0 p-5">
+                        <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Dermatologist</p>
+                        <h4 class="font-display text-xl text-white">Dr. Chirag Kotecha</h4>
+                    </div>
+                </div>
+            </a>
+
+            <!-- Dr 2 (Henry) -->
             <a href="about-dr-henry-owiny-aesthetic-physician-in-uganda" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
                     <img src="/assets/imagesfromsite/blog/Refine_Skin_and_Body_Clinic_-_Dr_Henry_Owiny.webp" alt="Dr. Henry Owiny" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
@@ -223,7 +215,7 @@
                 </div>
             </a>
 
-            <!-- Dr 2 -->
+            <!-- Dr 3 (William) -->
             <a href="about-dr-william-lubega-plastic-surgeon-in-uganda" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
                     <img src="/assets/images/team/Dr_William_Lubega.png" alt="Dr. William Lubega" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
@@ -231,18 +223,6 @@
                     <div class="absolute bottom-0 left-0 right-0 p-5">
                         <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Plastic Surgeon</p>
                         <h4 class="font-display text-xl text-white">Dr. William Lubega</h4>
-                    </div>
-                </div>
-            </a>
-
-            <!-- Dr 3 -->
-            <a href="dr-chirag-kotecha-dermatologist-in-uganda" class="group block bento-item">
-                <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
-                    <img src="/assets/imagesfromsite/doc.webp" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
-                    <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-transparent to-transparent"></div>
-                    <div class="absolute bottom-0 left-0 right-0 p-5">
-                        <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Dermatologist</p>
-                        <h4 class="font-display text-xl text-white">Dr. Chirag Kotecha</h4>
                     </div>
                 </div>
             </a>
@@ -337,23 +317,11 @@
                 </div>
             </div>
 
-            <div class="lg:col-span-7 order-1 lg:order-2 relative gs-reveal-img-group h-auto lg:h-[600px] flex flex-col lg:block mt-8 lg:mt-0">
-                <div class="relative lg:absolute lg:top-0 lg:right-0 w-full lg:w-[80%] h-[300px] lg:h-[80%] img-reveal-wrapper shadow-2xl rounded-3xl overflow-hidden z-10 gs-reveal-img mb-6 lg:mb-0">
+            <div class="lg:col-span-7 order-1 lg:order-2 gs-reveal-img-group mt-8 lg:mt-0">
+                <div class="relative w-full h-[400px] lg:h-[520px] img-reveal-wrapper shadow-2xl rounded-3xl overflow-hidden gs-reveal-img">
                     <div class="img-reveal-overlay"></div>
                     <img src="/assets/imagesfromsite/IV%20THERAPY.webp" alt="IV Lounge" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
-                <div class="relative lg:absolute lg:bottom-0 lg:left-0 w-[80%] lg:w-[45%] h-[200px] lg:h-[55%] img-reveal-wrapper shadow-2xl rounded-3xl overflow-hidden z-20 border-4 border-white gs-reveal-img gs-delay-1 -mt-16 lg:mt-0 ml-auto lg:ml-0">
-                    <div class="img-reveal-overlay"></div>
-                    <img src="/assets/imagesfromsite/IV-Therapy_09.png" alt="IV detail" class="img-parallax object-cover w-full h-full" loading="lazy">
-                </div>
-                <div class="hidden lg:block absolute top-8 left-0 z-30 glass-panel rounded-2xl p-4 max-w-[200px] gs-reveal-fade gs-delay-2">
-                    <div class="flex items-center gap-2 mb-2">
-                        <div class="w-8 h-8 rounded-full bg-accent/20 flex items-center justify-center"><i class="fas fa-bolt text-accent text-xs"></i></div>
-                        <p class="font-heading font-semibold text-brand-deeper text-sm">100% Absorption</p>
-                    </div>
-                    <p class="text-xs text-brand-muted font-light leading-snug">Bypasses digestion for instant, full-dose delivery into your bloodstream.</p>
-                </div>
-            </div>
         </div>
     </div>
 </section>
@@ -363,7 +331,7 @@
 
 
 <!-- ============= 8. PRESS / FEATURED IN ============= -->
-<section class="py-12 lg:py-16 bg-white border-y border-brand/5">
+<section class="py-16 lg:py-24 bg-white border-y border-brand/5">
     <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
         <p class="text-center text-brand-muted text-[11px] tracking-[0.3em] uppercase font-semibold mb-10 gs-reveal-fade">As Featured In</p>
         <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6 lg:gap-10 items-center justify-items-center opacity-60 gs-reveal-fade">
@@ -379,13 +347,13 @@
 
 
 <!-- ============= 9. FINAL CTA ============= -->
-<section class="py-20 lg:py-28 bg-brand-deeper text-white relative overflow-hidden">
+<section class="py-16 lg:py-24 bg-brand-deeper text-white relative overflow-hidden">
     <div class="absolute -top-40 -right-40 w-[500px] h-[500px] rounded-full bg-accent/10 blur-3xl"></div>
     <div class="absolute -bottom-40 -left-40 w-[500px] h-[500px] rounded-full bg-brand/30 blur-3xl"></div>
 
     <div class="max-w-[1100px] mx-auto px-6 lg:px-10 relative z-10 text-center gs-reveal-fade">
         <span class="inline-block text-accent font-body text-xs tracking-[0.3em] uppercase mb-6 font-semibold">Begin Today</span>
-        <h2 class="font-display text-section lg:text-6xl text-white leading-[1.05] mb-8 text-balance">
+        <h2 class="font-display text-section text-white leading-[1.05] mb-8 text-balance">
             Your Most Radiant Self <i class="text-accent font-light">Awaits.</i>
         </h2>
         <p class="text-white/70 font-body text-lg font-light leading-relaxed max-w-2xl mx-auto mb-12">

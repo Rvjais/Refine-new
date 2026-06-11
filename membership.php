@@ -13,7 +13,7 @@ $pageDescription = "Elevate your aesthetic journey. Join our exclusive loyalty p
     <!-- ============================================
          HOW IT WORKS
          ============================================ -->
-    <section class="py-16 bg-surface-warm border-b border-brand/5">
+    <section class="py-16 lg:py-24 bg-surface-warm border-b border-brand/5">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
             <h3 class="font-display text-3xl text-brand-deeper text-center mb-12 gs-reveal-text">How To <i class="text-accent font-light">Join</i></h3>
             
@@ -40,7 +40,7 @@ $pageDescription = "Elevate your aesthetic journey. Join our exclusive loyalty p
     <!-- ============================================
          TIERS
          ============================================ -->
-    <section class="py-16 lg:py-32 bg-white relative">
+    <section class="py-16 lg:py-24 bg-white relative">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
             
             <div class="grid md:grid-cols-3 gap-8 mb-24 gs-stagger-bento">
@@ -94,7 +94,7 @@ $pageDescription = "Elevate your aesthetic journey. Join our exclusive loyalty p
     <!-- ============================================
          VIP TESTIMONIAL
          ============================================ -->
-    <section class="py-16 bg-surface-warm">
+    <section class="py-16 lg:py-24 bg-surface-warm">
         <div class="max-w-[1000px] mx-auto px-6 text-center gs-reveal-fade">
             <div class="bg-white p-12 rounded-[40px] shadow-sm border border-brand/5 relative overflow-hidden">
                 <i class="fas fa-crown text-6xl text-brand/5 absolute -top-2 -left-2 rotate-[-15deg]"></i>

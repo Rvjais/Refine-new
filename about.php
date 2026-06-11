@@ -13,12 +13,12 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
     <!-- ============================================
          CLINIC STORY & MISSION
          ============================================ -->
-    <section class="py-16 lg:py-32 bg-white">
+    <section class="py-16 lg:py-24 bg-white">
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
             <div class="grid lg:grid-cols-2 gap-16 lg:gap-24 items-center">
                 
                 <div class="gs-reveal-text">
-                    <h2 class="font-display text-4xl lg:text-5xl text-brand-deeper leading-tight mb-8">
+                    <h2 class="text-section font-display text-brand-deeper leading-tight mb-8">
                         A Legacy of <i class="text-accent font-light">Transformation.</i>
                     </h2>
                     
@@ -63,7 +63,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-brand rounded-full blur-[100px] opacity-20 -translate-y-1/2 translate-x-1/3"></div>
 
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10 relative z-10 gs-reveal-text">
-            <h2 class="font-display text-4xl lg:text-5xl mb-16 text-center">The Refine <i class="text-accent font-light">Pillars.</i></h2>
+            <h2 class="text-section font-display mb-16 text-center">The Refine <i class="text-accent font-light">Pillars.</i></h2>
             
             <div class="grid md:grid-cols-3 gap-8">
                 <!-- Value 1 -->
@@ -99,7 +99,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
     <!-- ============================================
          FOUNDER / LEAD SPECIALIST
          ============================================ -->
-    <section class="py-16 lg:py-32 bg-surface-warm relative overflow-hidden">
+    <section class="py-16 lg:py-24 bg-surface-warm relative overflow-hidden">
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10 relative z-10">
             <div class="grid lg:grid-cols-12 gap-16 lg:gap-24 items-center">
                 
@@ -111,7 +111,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
 
                 <div class="lg:col-span-7 gs-reveal-text">
                     <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-6 font-semibold">The Visionary</span>
-                    <h2 class="font-display text-4xl lg:text-5xl text-brand-deeper leading-tight mb-8">
+                    <h2 class="text-section font-display text-brand-deeper leading-tight mb-8">
                         Dr. Chirag <i class="text-brand font-light">Kotecha.</i>
                     </h2>
                     
@@ -138,12 +138,12 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
     <!-- ============================================
          MEET THE EXPERTS (Team Grid)
          ============================================ -->
-    <section class="py-16 lg:py-32 bg-white">
+    <section class="py-16 lg:py-24 bg-white">
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
             <div class="flex flex-col md:flex-row justify-between items-end gap-8 mb-16 gs-reveal-text">
                 <div class="max-w-2xl">
                     <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">The Collective</span>
-                    <h2 class="font-display text-4xl lg:text-5xl text-brand-deeper leading-tight">Master <i class="text-brand font-light">Practitioners.</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper leading-tight">Master <i class="text-brand font-light">Practitioners.</i></h2>
                 </div>
                 <div class="max-w-md">
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed">Our hand-picked team of specialists brings unparalleled expertise to every treatment room.</p>
@@ -195,14 +195,14 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
     <!-- ============================================
          THE CLINIC EXPERIENCE (Visual Narrative)
          ============================================ -->
-    <section class="py-16 lg:py-32 bg-surface-warm">
+    <section class="py-16 lg:py-24 bg-surface-warm">
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
             <div class="grid lg:grid-cols-2 gap-16 items-center">
                 <div class="order-2 lg:order-1 relative h-[600px] rounded-3xl overflow-hidden gs-reveal-img-group">
                     <img src="https://refineskinandbody.com/images/about2026.webp" alt="Clinic Interior" class="w-full h-full object-cover gs-reveal-img" loading="lazy">
                 </div>
                 <div class="order-1 lg:order-2 gs-reveal-text lg:pl-12">
-                    <h2 class="font-display text-4xl lg:text-5xl text-brand-deeper mb-8">A Sanctuary of <i class="text-accent font-light">Calm.</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-8">A Sanctuary of <i class="text-accent font-light">Calm.</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-8">
                         Step into an environment meticulously designed to soothe the senses. From the moment you arrive, the ambient lighting, signature scent, and private consultation suites ensure your absolute comfort and discretion.
                     </p>
@@ -220,9 +220,9 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
     <!-- ============================================
          MILESTONE TIMELINE
          ============================================ -->
-    <section class="py-16 lg:py-32 bg-brand-deeper text-white relative">
+    <section class="py-16 lg:py-24 bg-brand-deeper text-white relative">
         <div class="max-w-[1200px] mx-auto px-6 lg:px-10 gs-reveal-text">
-            <h2 class="font-display text-4xl text-center mb-20">Our <i class="text-accent font-light">Journey.</i></h2>
+            <h2 class="text-section font-display text-center mb-20">Our <i class="text-accent font-light">Journey.</i></h2>
             
             <div class="relative border-l border-white/20 ml-4 md:ml-1/2 space-y-16">
                 <!-- Timeline Item 1 -->

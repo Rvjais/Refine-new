@@ -57,7 +57,7 @@ body {
     opacity: 0;
 }
 
-/* ---------- Magnetic Button / CTA ---------- */
+/* ---------- Magnetic Button / CTA (Simplified) ---------- */
 .btn-magnetic {
     position: relative;
     display: inline-flex;
@@ -71,44 +71,14 @@ body {
     font-weight: 500;
     font-size: 15px;
     letter-spacing: 0.02em;
-    overflow: hidden;
     cursor: pointer;
     border: none;
-    transition: color 0.3s ease, border-color 0.3s ease;
-    z-index: 1;
-}
-
-.btn-magnetic::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: #C9A96E; /* Accent Gold */
-    border-radius: 100px;
-    transform: scale(0);
-    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-    z-index: -1;
-    transform-origin: center;
-}
-
-.btn-magnetic:hover::before {
-    transform: scale(1.05);
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
 }
 
 .btn-magnetic:hover {
+    background-color: #C9A96E; /* Accent Gold */
     color: #1a0f3c; /* Dark text on gold */
-}
-
-.btn-magnetic span, .btn-magnetic i {
-    position: relative;
-    z-index: 2;
-    transition: transform 0.3s ease;
-}
-
-.btn-magnetic:hover i {
-    transform: translateX(4px);
 }
 
 /* Outline variation */
@@ -117,10 +87,9 @@ body {
     border: 1px solid rgba(26, 15, 60, 0.2);
     color: #1a0f3c;
 }
-.btn-outline::before {
-    background: #1a0f3c;
-}
+
 .btn-outline:hover {
+    background-color: #1a0f3c;
     color: #ffffff;
     border-color: #1a0f3c;
 }
@@ -225,11 +194,11 @@ body {
 /* Hero Typography */
 .hero-display-text {
     font-family: 'Playfair Display', serif;
-    font-size: clamp(3.5rem, 8vw, 7rem);
-    line-height: 0.95;
+    font-size: clamp(1.75rem, 3.5vw, 3.2rem);
+    line-height: 1.1;
     color: #ffffff;
     font-weight: 400;
-    letter-spacing: -0.02em;
+    letter-spacing: -0.025em;
     text-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
 .hero-display-text i {
@@ -496,7 +465,7 @@ body {
         display: none; /* Safari and Chrome */
     }
     #services .bento-grid .bento-item {
-        min-width: 80vw;
+        min-width: 72vw; max-width: 72vw;
         scroll-snap-align: center;
         flex-shrink: 0;
     }
@@ -538,7 +507,7 @@ body {
         flex-shrink: 0;
     }
     /* Treatment categories horizontal carousel on mobile */
-    #treatment-categories-grid {
+    #treatment-categories-grid, #services-carousel {
         display: flex !important;
         overflow-x: auto;
         scroll-snap-type: x mandatory;
@@ -552,10 +521,10 @@ body {
         padding-right: 1.5rem;
         gap: 1rem !important;
     }
-    #treatment-categories-grid::-webkit-scrollbar {
+    #treatment-categories-grid::-webkit-scrollbar, #services-carousel::-webkit-scrollbar {
         display: none;
     }
-    #treatment-categories-grid .bento-item {
+    #treatment-categories-grid .bento-item, #services-carousel > a {
         min-width: 72vw;
         max-width: 72vw;
         height: 260px !important;
@@ -567,6 +536,14 @@ body {
     /* Always show text labels on treatment category cards on mobile */
     #treatment-categories-grid .bento-item > div:last-child {
         opacity: 1 !important;
+    }
+    /* Scrolled hamburger menu color */
+    #site-header.scrolled #mobile-menu-toggle span {
+        background-color: var(--color-brand, #432C86) !important;
+    }
+    #site-header.scrolled #mobile-menu-toggle {
+        background-color: rgba(67, 44, 134, 0.05) !important; /* brand faint */
+        color: #432C86 !important;
     }
     .hero-display-text {
         font-size: clamp(2.2rem, 8vw, 3.5rem);
@@ -610,6 +587,9 @@ body {
     /* Glass Panel optimizations */
     .glass-panel {
         padding: 1.5rem !important; /* from p-8/p-12 */
+    }
+    .glass-panel.faq-item {
+        padding: 0 !important;
     }
 }
 

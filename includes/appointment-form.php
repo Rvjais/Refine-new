@@ -1,7 +1,7 @@
 <?php
 // Extracted Appointment Form to be included in all service pages
 ?>
-<section class="w-full bg-[#faf9f6] py-16 lg:py-24 relative overflow-hidden">
+<section class="py-16 lg:py-24 w-full bg-[#faf9f6] relative overflow-hidden">
     <!-- Decorative background elements for the light section -->
     <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
     <div class="absolute bottom-0 left-0 w-[400px] h-[400px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
@@ -16,7 +16,7 @@
             
             <div class="text-center mb-12 relative z-10">
                 <p class="text-accent text-[10px] tracking-[0.3em] uppercase font-semibold mb-3">Priority Booking</p>
-                <h3 class="font-display text-3xl lg:text-4xl text-white leading-tight mb-4">Request an Appointment</h3>
+                <h3 class="text-section font-display text-white leading-tight mb-4">Request an Appointment</h3>
                 <p class="text-white/55 font-body text-sm font-light max-w-2xl mx-auto">Please fill out the form below and our scheduling team will contact you to confirm your appointment.</p>
             </div>
 

@@ -19,7 +19,7 @@ $pageDescription = "Explore our premium treatment packages and pricing structure
             
             <div class="text-center mb-16">
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Maximum ROI</span>
-                <h2 class="font-display text-4xl lg:text-5xl text-white">Signature <i class="text-accent font-light">Bundles.</i></h2>
+                <h2 class="text-section font-display text-white">Signature <i class="text-accent font-light">Bundles.</i></h2>
                 <p class="text-white/70 font-body text-sm mt-4 font-light max-w-2xl mx-auto">Curated treatment combinations designed to deliver comprehensive results at an exceptional value.</p>
             </div>
 
@@ -71,11 +71,11 @@ $pageDescription = "Explore our premium treatment packages and pricing structure
     <!-- ============================================
          A LA CARTE PRICING TABLES
          ============================================ -->
-    <section class="py-16 lg:py-32 bg-white">
+    <section class="py-16 lg:py-24 bg-white">
         <div class="max-w-[1200px] mx-auto px-6 lg:px-10 gs-reveal-text">
             
             <div class="text-center mb-16">
-                <h2 class="font-display text-4xl text-brand-deeper mb-4">A La Carte <i class="text-accent font-light">Services</i></h2>
+                <h2 class="text-section font-display text-brand-deeper mb-4">A La Carte <i class="text-accent font-light">Services</i></h2>
                 <p class="text-brand-muted font-body text-sm font-light">Please note: Prices are indicative and may vary based on individual consultation and specific product requirements. All prices are in UGX unless otherwise stated.</p>
             </div>
 
@@ -155,7 +155,7 @@ $pageDescription = "Explore our premium treatment packages and pricing structure
     <!-- ============================================
          FINANCING & MEMBERSHIP CTA
          ============================================ -->
-    <section class="py-16 bg-surface-warm border-t border-brand/5">
+    <section class="py-16 lg:py-24 bg-surface-warm border-t border-brand/5">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
             <div class="grid lg:grid-cols-2 gap-8 gs-stagger-bento">
                 

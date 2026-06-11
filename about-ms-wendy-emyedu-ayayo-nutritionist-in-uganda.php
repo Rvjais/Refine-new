@@ -37,7 +37,7 @@ $pageDescription = "Meet Ms. Wendy Emyedu Ayayo, our clinical nutritionist bridg
                 <!-- Bio & Details (Right Column) -->
                 <div class="lg:col-span-8 gs-reveal-text">
                     <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Holistic Wellness</span>
-                    <h2 class="font-display text-4xl lg:text-5xl text-brand-deeper mb-6">Beauty From <i class="text-accent font-light">Within.</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6">Beauty From <i class="text-accent font-light">Within.</i></h2>
                     
                     <!-- Bio (Placeholder Text for live site content) -->
                     <div class="space-y-6 text-brand-muted font-body text-lg font-light leading-relaxed mb-12">

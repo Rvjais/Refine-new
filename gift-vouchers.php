@@ -28,7 +28,7 @@ $pageDescription = "Give the gift of radiant skin and ultimate relaxation. Our l
                         </div>
                         <div>
                             <p class="text-white/60 font-body text-xs mb-1">Presented to</p>
-                            <h3 class="font-display text-4xl text-white">[Recipient Name]</h3>
+                            <h3 class="text-section font-display text-white">[Recipient Name]</h3>
                         </div>
                     </div>
                 </div>
@@ -97,7 +97,7 @@ $pageDescription = "Give the gift of radiant skin and ultimate relaxation. Our l
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
             <div class="grid lg:grid-cols-2 gap-16 items-center">
                 <div class="order-2 lg:order-1 gs-reveal-text lg:pr-12">
-                    <h2 class="font-display text-4xl text-brand-deeper mb-6">The <i class="text-accent font-light">Unboxing</i> Experience.</h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6">The <i class="text-accent font-light">Unboxing</i> Experience.</h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-6">
                         For physical vouchers, the experience begins the moment they receive it. Our gift certificates are presented in a luxurious, matte black envelope sealed with the Refine crest in gold wax.
                     </p>
@@ -123,7 +123,7 @@ $pageDescription = "Give the gift of radiant skin and ultimate relaxation. Our l
     <section class="py-16 lg:py-24 bg-brand-deeper text-white relative">
         <div class="max-w-[1200px] mx-auto px-6 lg:px-10 text-center gs-reveal-fade">
             <i class="fas fa-building text-4xl text-accent mb-6 opacity-80"></i>
-            <h3 class="font-display text-4xl mb-6">Corporate <i class="text-accent font-light">Gifting</i></h3>
+            <h3 class="text-section font-display mb-6">Corporate <i class="text-accent font-light">Gifting</i></h3>
             <p class="text-sm font-light text-white/70 mb-10 max-w-2xl mx-auto leading-relaxed">
                 Reward your top performers, executives, or valued clients with the ultimate gift of self-care. We offer specialized corporate packages and bulk voucher discounts for businesses looking to provide an unforgettable wellness experience.
             </p>

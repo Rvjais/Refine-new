@@ -13,7 +13,7 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
     <!-- ============================================
          WHAT TO EXPECT (Timeline)
          ============================================ -->
-    <section class="py-16 bg-surface-warm border-b border-brand/5">
+    <section class="py-16 lg:py-24 bg-surface-warm border-b border-brand/5">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
             <h3 class="font-display text-3xl text-brand-deeper text-center mb-12 gs-reveal-text">Your Journey <i class="text-accent font-light">With Us</i></h3>
             

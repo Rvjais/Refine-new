@@ -19,7 +19,7 @@ $pageDescription = "We are always looking for passionate, skilled professionals 
             <div class="grid lg:grid-cols-2 gap-16 lg:gap-24 mb-24 items-center">
                 <div class="gs-reveal-text">
                     <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Our Philosophy</span>
-                    <h2 class="font-display text-4xl text-brand-deeper mb-6">A Culture of <i class="text-accent font-light">Excellence.</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6">A Culture of <i class="text-accent font-light">Excellence.</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-6">At Refine Skin & Body Clinic, we foster an environment of continuous learning, empathy, and uncompromising quality. Our team members are our greatest asset, and we invest heavily in their professional development.</p>
                     <ul class="space-y-4 font-body text-brand-deeper font-semibold">
                         <li class="flex items-center gap-3"><i class="fas fa-check text-accent"></i> Competitive compensation packages</li>
@@ -81,7 +81,7 @@ $pageDescription = "We are always looking for passionate, skilled professionals 
          ============================================ -->
     <section class="py-16 lg:py-24 bg-surface-warm overflow-hidden">
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10 mb-12 gs-reveal-text">
-            <h2 class="font-display text-4xl text-brand-deeper text-center">Life at <i class="text-accent font-light">Refine</i></h2>
+            <h2 class="text-section font-display text-brand-deeper text-center">Life at <i class="text-accent font-light">Refine</i></h2>
         </div>
         
         <!-- Marquee / Horizontal Scroll of Images -->
@@ -110,12 +110,12 @@ $pageDescription = "We are always looking for passionate, skilled professionals 
     <!-- ============================================
          EMPLOYEE TESTIMONIALS
          ============================================ -->
-    <section class="py-16 lg:py-32 bg-brand-deeper text-white relative">
+    <section class="py-16 lg:py-24 bg-brand-deeper text-white relative">
         <div class="absolute top-0 left-0 w-full h-full bg-accent opacity-5 mix-blend-overlay"></div>
         <div class="max-w-[1200px] mx-auto px-6 relative z-10 text-center">
             
             <i class="fas fa-quote-left text-4xl text-accent mb-8 opacity-80"></i>
-            <h3 class="font-display text-3xl lg:text-4xl leading-tight max-w-3xl mx-auto mb-8">
+            <h3 class="text-section font-display leading-tight max-w-3xl mx-auto mb-8">
                 "Working here isn't just about administering treatments; it's about being part of a team that genuinely cares about elevating the standards of aesthetic medicine in Africa. The training and support from management are unprecedented."
             </h3>
             

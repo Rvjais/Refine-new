@@ -13,7 +13,7 @@ $pageDescription = "Explore our comprehensive suite of advanced aesthetic and me
     <!-- ============================================
          CATEGORY FILTERS
          ============================================ -->
-    <section class="py-12 bg-white border-b border-brand/5">
+    <section class="py-16 lg:py-24 bg-white border-b border-brand/5">
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
             <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
                 <a href="#cosmetic" class="glass-panel p-6 rounded-2xl text-center group hover:bg-surface-warm transition-colors shadow-sm">
@@ -45,14 +45,14 @@ $pageDescription = "Explore our comprehensive suite of advanced aesthetic and me
     </section>
 
     <!-- Master Services Grid (Reusing the enhanced Bento layout) -->
-    <div class="py-16 bg-surface-warm">
+    <div class="py-16 lg:py-24 bg-surface-warm">
         <?php include 'includes/services.php'; ?>
     </div>
 
     <!-- ============================================
          FEATURED TREATMENT DEEP DIVE
          ============================================ -->
-    <section class="py-16 lg:py-32 bg-white overflow-hidden">
+    <section class="py-16 lg:py-24 bg-white overflow-hidden">
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
             <div class="grid lg:grid-cols-2 gap-16 lg:gap-24 items-center">
                 <div class="relative rounded-3xl overflow-hidden shadow-2xl gs-reveal-img-group aspect-[4/5] lg:aspect-auto lg:h-[700px]">
@@ -65,7 +65,7 @@ $pageDescription = "Explore our comprehensive suite of advanced aesthetic and me
                 </div>
                 
                 <div class="gs-reveal-text">
-                    <h2 class="font-display text-4xl lg:text-5xl text-brand-deeper mb-6">More Than A <i class="text-accent font-light">Facial.</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6">More Than A <i class="text-accent font-light">Facial.</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-8">
                         Experience the gold standard in skin rejuvenation. The HydraFacial is a medical-grade resurfacing treatment that clears out your pores, plus it hydrates your skin. 
                     </p>
@@ -109,7 +109,7 @@ $pageDescription = "Explore our comprehensive suite of advanced aesthetic and me
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10 gs-reveal-text">
             <div class="text-center mb-16">
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Why Choose Us</span>
-                <h2 class="font-display text-4xl lg:text-5xl">The Refine <i class="text-accent font-light">Difference.</i></h2>
+                <h2 class="text-section font-display">The Refine <i class="text-accent font-light">Difference.</i></h2>
             </div>
             
             <div class="grid md:grid-cols-3 gap-10 text-center">
@@ -137,7 +137,7 @@ $pageDescription = "Explore our comprehensive suite of advanced aesthetic and me
          ============================================ -->
     <section class="py-16 lg:py-24 bg-surface-warm">
         <div class="max-w-[800px] mx-auto px-6 gs-reveal-text">
-            <h2 class="font-display text-3xl text-brand-deeper text-center mb-12">Common <i class="text-accent font-light">Questions</i></h2>
+            <h2 class="text-section font-display text-brand-deeper text-center mb-12">Common <i class="text-accent font-light">Questions</i></h2>
             
             <div class="space-y-4">
                 <div class="glass-panel p-6 rounded-2xl bg-white border border-brand/5">

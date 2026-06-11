@@ -19,7 +19,7 @@ $pageDescription = "We are here to assist you. Reach out to book a consultation 
                 
                 <!-- Contact Details -->
                 <div class="gs-reveal-text">
-                    <h2 class="font-display text-4xl text-brand-deeper mb-8">Visit <i class="text-accent font-light">Our Clinics.</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-8">Visit <i class="text-accent font-light">Our Clinics.</i></h2>
                     
                     <div class="space-y-10">
                         <!-- HQ -->
@@ -109,7 +109,7 @@ $pageDescription = "We are here to assist you. Reach out to book a consultation 
     <!-- ============================================
          ARRIVAL GUIDE & EMERGENCY
          ============================================ -->
-    <section class="py-16 bg-surface-warm border-t border-brand/5">
+    <section class="py-16 lg:py-24 bg-surface-warm border-t border-brand/5">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
             <div class="grid md:grid-cols-2 gap-8 gs-stagger-bento">
                 

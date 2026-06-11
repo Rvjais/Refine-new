@@ -16,9 +16,9 @@ $pageDescription = "Read the authentic experiences of those who have entrusted t
     <!-- ============================================
          CASE STUDIES (Detailed Stories)
          ============================================ -->
-    <section class="py-16 lg:py-32 bg-white">
+    <section class="py-16 lg:py-24 bg-white">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
-            <h2 class="font-display text-4xl text-brand-deeper mb-16 text-center gs-reveal-text">Transformational <i class="text-accent font-light">Journeys.</i></h2>
+            <h2 class="text-section font-display text-brand-deeper mb-16 text-center gs-reveal-text">Transformational <i class="text-accent font-light">Journeys.</i></h2>
             
             <div class="space-y-16">
                 <!-- Case Study 1 -->
@@ -91,7 +91,7 @@ $pageDescription = "Read the authentic experiences of those who have entrusted t
          ============================================ -->
     <section class="py-16 lg:py-24 bg-surface-warm relative">
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
-            <h2 class="font-display text-4xl text-brand-deeper mb-16 text-center gs-reveal-text">Watch <i class="text-accent font-light">Their Stories</i></h2>
+            <h2 class="text-section font-display text-brand-deeper mb-16 text-center gs-reveal-text">Watch <i class="text-accent font-light">Their Stories</i></h2>
             
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 gs-stagger-bento">
                 <!-- Video 1 -->
@@ -139,12 +139,12 @@ $pageDescription = "Read the authentic experiences of those who have entrusted t
     <!-- ============================================
          GOOGLE REVIEWS & LEAVE REVIEW CTA
          ============================================ -->
-    <section class="py-16 lg:py-32 bg-white">
+    <section class="py-16 lg:py-24 bg-white">
         <div class="max-w-[1400px] mx-auto px-6 gs-reveal-text">
             
             <div class="text-center mb-16">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="Google" class="w-12 h-12 mx-auto mb-6">
-                <h2 class="font-display text-4xl text-brand-deeper mb-4">4.9 Stars on Google</h2>
+                <h2 class="text-section font-display text-brand-deeper mb-4">4.9 Stars on Google</h2>
                 <p class="text-brand-muted mb-6">Based on over 150 authentic patient reviews.</p>
                 <a href="https://g.page/refineskinandbody?share" target="_blank" class="text-accent font-semibold text-sm hover:text-brand transition-colors">View All Reviews <i class="fas fa-arrow-right ml-1"></i></a>
             </div>
@@ -175,7 +175,7 @@ $pageDescription = "Read the authentic experiences of those who have entrusted t
                 <div class="absolute inset-0 bg-accent/10 pointer-events-none"></div>
                 <div class="relative z-10">
                     <i class="fas fa-quote-left text-4xl text-accent mb-6 opacity-80"></i>
-                    <h3 class="font-display text-3xl lg:text-4xl mb-4">Share Your Experience</h3>
+                    <h3 class="text-section font-display mb-4">Share Your Experience</h3>
                     <p class="text-sm font-light text-white/70 mb-8 leading-relaxed max-w-lg mx-auto">Your journey inspires others. If you've recently visited us, we would be incredibly grateful if you shared your experience.</p>
                     <a href="https://g.page/refineskinandbody/review?rc" target="_blank" class="btn-magnetic bg-white text-brand-deeper border-none px-12 magnetic-target">
                         <span>Leave a Google Review</span>

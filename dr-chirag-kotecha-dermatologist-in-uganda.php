@@ -33,7 +33,7 @@ $pageDescription = "Discover the visionary behind Refine Skin & Body Clinic. Dr.
 
                 <!-- Bio & Details (Right Column) -->
                 <div class="lg:col-span-8 gs-reveal-text">
-                    <h2 class="font-display text-4xl lg:text-5xl text-brand-deeper mb-6">The Visionary <i class="text-accent font-light">Specialist.</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6">The Visionary <i class="text-accent font-light">Specialist.</i></h2>
                     
                     <!-- Bio (Placeholder Text for live site content) -->
                     <div class="space-y-6 text-brand-muted font-body text-lg font-light leading-relaxed mb-12">
