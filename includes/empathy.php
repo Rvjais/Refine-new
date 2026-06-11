@@ -5,7 +5,7 @@
     <!-- Abstract blurred shapes removed for performance -->
 
     <div class="max-w-[1600px] mx-auto px-6 lg:px-10 relative z-10">
-        <div class="grid lg:grid-cols-12 gap-16 lg:gap-24 items-center">
+        <div id="treatment-categories-grid" class="grid lg:grid-cols-12 gap-16 lg:gap-24 items-center">
             
             <!-- Left Text Column -->
             <div class="lg:col-span-5 order-2 lg:order-1 gs-reveal-text">
@@ -24,14 +24,14 @@
                     </p>
                 </div>
 
-                <div class="flex items-center gap-8">
-                    <a href="about" class="btn-magnetic magnetic-target">
+                <div class="flex flex-col sm:flex-row items-start sm:items-center gap-4">
+                    <a href="about" class="btn-magnetic magnetic-target w-full sm:w-auto text-center">
                         <span>Discover Our Clinic</span>
                     </a>
                     
                     <!-- Small Dr Signature / Credential -->
-                    <div class="flex items-center gap-4">
-                        <div class="w-12 h-12 rounded-full border border-brand/20 p-1 flex-shrink-0">
+                    <div class="flex items-center gap-3">
+                        <div class="w-10 h-10 rounded-full border border-brand/20 p-0.5 flex-shrink-0">
                             <div class="w-full h-full rounded-full bg-brand flex items-center justify-center text-white text-xs">
                                 <i class="fas fa-stethoscope"></i>
                             </div>

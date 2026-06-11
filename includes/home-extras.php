@@ -57,7 +57,7 @@
             </p>
         </div>
 
-        <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5 gs-stagger-bento">
+        <div id="treatment-categories-grid" class="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5 gs-stagger-bento">
             <!-- Card: Skin -->
             <a href="cosmetic-dermatology-kampala-juba" class="group relative overflow-hidden rounded-3xl h-72 lg:h-96 bento-item">
                 <img src="/assets/imagesfromsite/dermatology-new-09.webp" alt="Skin" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
@@ -193,7 +193,7 @@
 
 
 <!-- ============= 4. DOCTORS / TEAM STRIP ============= -->
-<section class="py-16 lg:py-24 bg-brand-deeper text-white relative overflow-hidden">
+<section id="doctors" class="py-16 lg:py-24 bg-brand-deeper text-white relative overflow-hidden">
     <!-- Background pattern -->
     <div class="absolute inset-0 opacity-[0.04]" style="background-image: radial-gradient(circle at 2px 2px, #fff 1px, transparent 0); background-size: 36px 36px;"></div>
 
@@ -210,7 +210,7 @@
             </a>
         </div>
 
-        <div class="grid grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 gs-stagger-bento">
+        <div id="doctors-grid" class="grid grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 gs-stagger-bento">
             <!-- Dr 1 -->
             <a href="about-dr-henry-owiny-aesthetic-physician-in-uganda" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
@@ -226,7 +226,7 @@
             <!-- Dr 2 -->
             <a href="about-dr-william-lubega-plastic-surgeon-in-uganda" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
-                    <img src="/assets/imagesfromsite/s13-1.webp" alt="Dr. William Lubega" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
+                    <img src="/assets/images/team/Dr_William_Lubega.png" alt="Dr. William Lubega" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
                     <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-transparent to-transparent"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-5">
                         <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Plastic Surgeon</p>

@@ -237,10 +237,10 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                 </div>
 
                 <!-- Mobile Hamburger -->
-                <button id="mobile-menu-toggle" aria-label="Open menu" class="lg:hidden w-10 h-10 flex flex-col items-center justify-center gap-1 rounded-full <?php echo $isHome ? 'bg-white/10 backdrop-blur-md text-white' : 'bg-brand/5 text-brand'; ?> transition-all hover:bg-accent/20">
-                    <span class="w-5 h-px bg-current block transition-transform origin-center" id="menu-line-1"></span>
-                    <span class="w-5 h-px bg-current block transition-opacity" id="menu-line-2"></span>
-                    <span class="w-5 h-px bg-current block transition-transform origin-center" id="menu-line-3"></span>
+                <button id="mobile-menu-toggle" aria-label="Open menu" class="lg:hidden w-10 h-10 flex flex-col items-center justify-center gap-1.5 rounded-full <?php echo $isHome ? 'bg-white/10 backdrop-blur-md text-white' : 'bg-brand/5 text-brand'; ?> transition-all hover:bg-accent/20">
+                    <span class="w-5 h-0.5 bg-current block rounded-full transition-transform origin-center" id="menu-line-1"></span>
+                    <span class="w-5 h-0.5 bg-current block rounded-full transition-opacity" id="menu-line-2"></span>
+                    <span class="w-5 h-0.5 bg-current block rounded-full transition-transform origin-center" id="menu-line-3"></span>
                 </button>
             </div>
         </div>

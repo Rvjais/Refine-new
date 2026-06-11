@@ -4,12 +4,9 @@
    ============================================ */
 
 /* ---------- Base & Reset ---------- */
-html, body {
-    margin: 0;
-    padding: 0;
+html {
+    overflow-x: clip; /* clip doesn't break fixed positioning like hidden does */
     width: 100%;
-    overflow-x: hidden;
-    position: relative;
 }
 
 *, *::before, *::after {
@@ -481,7 +478,8 @@ body {
     }
 }
 @media (max-width: 768px) {
-    .bento-grid {
+    /* Services bento carousel */
+    #services .bento-grid {
         display: flex;
         overflow-x: auto;
         scroll-snap-type: x mandatory;
@@ -494,16 +492,81 @@ body {
         padding-left: 1.5rem;
         padding-right: 1.5rem;
     }
-    .bento-grid::-webkit-scrollbar {
+    #services .bento-grid::-webkit-scrollbar {
         display: none; /* Safari and Chrome */
     }
-    .bento-item {
+    #services .bento-grid .bento-item {
         min-width: 80vw;
         scroll-snap-align: center;
         flex-shrink: 0;
     }
+    /* Other grids using bento-item stay normal */
+    .bento-grid {
+        grid-template-columns: 1fr;
+    }
     .bento-large, .bento-wide {
-        grid-column: auto;
+        grid-column: span 1;
+    }
+    /* Always show card labels on mobile (no hover on touch screens) */
+    #services .bento-content {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    /* Doctors horizontal carousel on mobile */
+    #doctors-grid {
+        display: flex !important;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        padding-bottom: 1rem;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        width: calc(100% + 3rem);
+        margin-left: -1.5rem;
+        margin-right: -1.5rem;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+        gap: 1rem !important;
+    }
+    #doctors-grid::-webkit-scrollbar {
+        display: none;
+    }
+    /* 72vw so ~28vw of next card peeks through */
+    #doctors-grid .bento-item {
+        min-width: 72vw;
+        max-width: 72vw;
+        scroll-snap-align: start;
+        flex-shrink: 0;
+    }
+    /* Treatment categories horizontal carousel on mobile */
+    #treatment-categories-grid {
+        display: flex !important;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        padding-bottom: 1rem;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        width: calc(100% + 3rem);
+        margin-left: -1.5rem;
+        margin-right: -1.5rem;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+        gap: 1rem !important;
+    }
+    #treatment-categories-grid::-webkit-scrollbar {
+        display: none;
+    }
+    #treatment-categories-grid .bento-item {
+        min-width: 72vw;
+        max-width: 72vw;
+        height: 260px !important;
+        scroll-snap-align: start;
+        flex-shrink: 0;
+        border-radius: 1.25rem !important;
+        position: relative;
+    }
+    /* Always show text labels on treatment category cards on mobile */
+    #treatment-categories-grid .bento-item > div:last-child {
+        opacity: 1 !important;
     }
     .hero-display-text {
         font-size: clamp(2.2rem, 8vw, 3.5rem);
@@ -587,6 +650,12 @@ body {
 .site-header.hero-mode.scrolled .nav-item-dropdown > a:hover,
 .site-header.hero-mode.scrolled .nav-link-item:hover {
     color: #C9A96E;
+}
+/* Make hamburger visible on white navbar - give it a brand purple bg */
+.site-header.hero-mode.scrolled #mobile-menu-toggle,
+.site-header:not(.hero-mode) #mobile-menu-toggle {
+    background-color: #432C86 !important;
+    color: #ffffff !important;
 }
 
 /* Generic page navbar (non-home) — should always be solid */
