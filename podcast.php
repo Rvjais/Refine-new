@@ -9,7 +9,7 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- What is Liquid Rhinoplasty? -->
+    <!-- Podcast & Webinars -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -20,16 +20,16 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        The Non-Surgical Nose Job
+                        Expert Aesthetic Care
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Liquid Rhinoplasty?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">The Refine <br/><i class="text-accent font-light">Podcast &amp; Webinars</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        Liquid Rhinoplasty, often termed a non-surgical nose job, employs fillers to tweak the nose's shape and profile without the downtime and invasiveness of surgery. Dr Chirag Kotecha masterfully uses this technique, delivering astounding results highlighting a patient's natural beauty.
+                        Experience premium aesthetic treatments at Refine Skin and Body Clinic. Our expert team combines advanced technology with personalised care to deliver outstanding, natural-looking results tailored to your unique needs.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/imagesfromsite/Liquid-Rhinoplasty_09.png" alt="A close-up of a person receiving a top liquid rhinoplasty in kampala on the side of their nose at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        <img src="/assets/imagesfromsite/refine-logo-white.webp" alt="Refine Skin and Body Clinic Podcast & Webinars" class="w-full h-full object-contain gs-reveal-img p-10" loading="lazy">
                     </div>
                 </div>
 
@@ -74,7 +74,7 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
                                     <span class="sm:hidden text-accent font-display text-2xl">3.</span> Procedure
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Strategic, micro-precise injections of dermal filler are administered by Dr. Chirag to reshape, elevate, and contour your nose.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Strategic, micro-precise injections of dermal filler are administered by Dr. Chirag to enhance your natural features and achieve your desired aesthetic outcome.</p>
                             </div>
                         </div>
 
@@ -104,7 +104,7 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
         <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Target Areas</span>
         <h3 class="text-section font-display text-brand-deeper mb-6">Conditions <i class="text-accent font-light">Treated</i></h3>
         <p class="text-brand-muted font-body text-xl font-light leading-relaxed">
-          Liquid Rhinoplasty is remarkably versatile. Explore how this non-invasive technique addresses diverse aesthetic concerns to restore balance and harmony.
+          Tune into The Refine Podcast and Webinar series. Our experts discuss the latest in aesthetic medicine, wellness, and skincare — helping you make informed decisions about your health and beauty journey.
         </p>
       </div>
 
@@ -112,8 +112,8 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
         <!-- 1: Large Span -->
         <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
           <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Dorsal Humps & Bumps</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Prominent or irregular bumps on the bridge of the nose can be masterfully smoothed and softened, creating a perfectly streamlined, straight appearance from any angle. Our expert team utilizes advanced, evidence-based techniques to address this effectively. We personalize every step of the process to ensure optimal, long-lasting results that harmonize with your natural aesthetics and restore your confidence.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Expert Interviews</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Join us as we sit down with leading dermatologists, plastic surgeons, and wellness practitioners from across East Africa and beyond. Our guests share their insights on the latest advancements in aesthetic medicine, skincare science, and holistic wellness.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -122,8 +122,8 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
         
         <!-- 2 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Asymmetry</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">For noses slightly off-centre or asymmetric, filler creates a flawlessly balanced and harmonious facial symmetry.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Treatment Deep Dives</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Ever wondered how a specific treatment works? Our deep dive episodes explore popular procedures — from HydraFacial to hair transplants — explaining the science, the process, and what to expect.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -132,8 +132,8 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
         
         <!-- 3 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Tip Elevation</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">A drooping or heavy nasal tip can be subtly lifted and elegantly refined, rejuvenating the overall profile.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Patient Stories</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Real patients share their journeys — what brought them to Refine, what their treatment experience was like, and how it transformed their confidence and quality of life.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -142,8 +142,8 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
         
         <!-- 4 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Bridge Enhancement</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Build up and define a flat nasal bridge for individuals seeking a more pronounced, sculpted architectural structure.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Wellness & Lifestyle</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Explore the intersection of aesthetic medicine and overall wellness. We cover nutrition, stress management, skincare routines, and lifestyle habits that enhance your natural beauty.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -152,8 +152,8 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
         
         <!-- 5 -->
         <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Post-Surgical Fixes</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">A minimally invasive tool to make delicate minor adjustments or brilliant corrections following a previous surgical rhinoplasty.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Industry Insights</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Stay informed with our analysis of the latest trends, research breakthroughs, and innovations shaping the aesthetic and wellness industry in East Africa and globally.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -217,7 +217,7 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
                             </div>
                             <div>
                                 <h4 class="font-heading font-semibold text-xl mb-2 text-white">Vast Experience</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with over 800 successful, transformative non-surgical nose jobs performed.</p>
+                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with thousands of successful treatments performed by our expert team.</p>
                             </div>
                         </div>
                     </div>
@@ -244,7 +244,7 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
                                     <i class="fas fa-times-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
                                 </div>
-                                <p class="font-heading text-xl font-light text-white/80 italic">"Results from Liquid Rhinoplasty are permanent."</p>
+                                <p class="font-heading text-xl font-light text-white/80 italic">"Expert guidance from leading aesthetic practitioners."</p>
                             </div>
                             
                             <div class="relative py-2">
@@ -279,14 +279,14 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
         <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Answers</span>
         <h3 class="text-section font-display text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
         <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
-          Explore our comprehensive FAQ section for quick answers to common queries about Liquid Rhinoplasty. Find the clarity you need without delay.
+          Have questions about our treatments? Browse our FAQs for quick answers or reach out to our team for personalised guidance.
         </p>
       </div>
 
       <div class="space-y-3">
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. Is Liquid Rhinoplasty painful?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. Is the treatment painful?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
@@ -356,14 +356,14 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Liquid Rhinoplasty in Uganda?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of treatment in Uganda?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Liquid Rhinoplasty cost in Uganda varies depending upon several individual factors. The premium Liquid Rhinoplasty service at Refine Skin & Body Clinic typically starts from $500.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Treatment costs vary depending on the procedure and individual factors. Our team will provide a detailed quote during your consultation.</p>
             </div>
           </div>
         </div>

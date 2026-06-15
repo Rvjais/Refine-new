@@ -4,7 +4,7 @@ RewriteEngine On
 DirectoryIndex index.php
 
 # Handle 301 Redirects
-RewriteRule ^body-contouring-kampala-juba/?$ /body-contouring [R=301,L]
+# body-contouring-kampala-juba now has its own page
 
 # Redirect trailing slashes to non-trailing slashes (optional, but good for SEO)
 RewriteCond %{REQUEST_FILENAME} !-d

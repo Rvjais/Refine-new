@@ -9,12 +9,7 @@ if (file_exists(__DIR__ . $path) && is_file(__DIR__ . $path)) {
     return false; // let the web server serve the file as is
 }
 
-// Handle 301 Redirects
-if ($path === '/body-contouring-kampala-juba') {
-    header("HTTP/1.1 301 Moved Permanently");
-    header("Location: /body-contouring");
-    exit();
-}
+// Handle 301 Redirects — moved to direct route below
 
 // Map clean URLs to .php files
 $routeMap = [
@@ -43,6 +38,8 @@ $routeMap = [
     '/about-dr-henry-owiny-aesthetic-physician-in-uganda' => 'about-dr-henry-owiny-aesthetic-physician-in-uganda.php',
     '/about-dr-william-lubega-plastic-surgeon-in-uganda' => 'about-dr-william-lubega-plastic-surgeon-in-uganda.php',
     '/dr-ahmed-ashraf-dermatologist-in-uganda' => 'dr-ahmed-ashraf-dermatologist-in-uganda.php',
+    '/about-alison-gallagher-psychotherapist-in-uganda' => 'about-alison-gallagher-psychotherapist-in-uganda.php',
+    '/about-dr-vicky-koojo-nganzi-dermatologist-in-uganda' => 'about-dr-vicky-koojo-nganzi-dermatologist-in-uganda.php',
     '/about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda' => 'about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda.php',
     '/cosmetic-dermatology-kampala-juba' => 'cosmetic-dermatology-kampala-juba.php',
     '/medical-dermatology-kampala-juba' => 'medical-dermatology-kampala-juba.php',
@@ -53,6 +50,11 @@ $routeMap = [
     '/skin-and-body-rejuvenation-kampala-juba' => 'skin-and-body-rejuvenation-kampala-juba.php',
     '/skin-tightening' => 'skin-tightening.php',
     '/body-contouring' => 'body-contouring.php',
+    '/body-contouring-kampala-juba' => 'body-contouring-kampala-juba.php',
+    '/scar-treatment-kampala-juba' => 'scar-treatment-kampala-juba.php',
+    '/hair-loss-treatment-kampala-juba' => 'hair-loss-treatment-kampala-juba.php',
+    '/Hyperpigmentation-Melasma-treatment-kampala-juba' => 'Hyperpigmentation-Melasma-treatment-kampala-juba.php',
+    '/thread-lifting-treatment-kampala-juba' => 'thread-lifting-treatment-kampala-juba.php',
     '/anti-migraine' => 'anti-migraine.php',
     '/hair-restoration-kampala-juba' => 'hair-restoration-kampala-juba.php',
     '/injectables-kampala-juba' => 'injectables-kampala-juba.php',

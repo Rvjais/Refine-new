@@ -9,7 +9,7 @@ $pageDescription = "A targeted blend of essential amino acids delivered IV to su
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- What is Liquid Rhinoplasty? -->
+    <!-- What is Amino Acids Treatment? -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -20,9 +20,9 @@ $pageDescription = "A targeted blend of essential amino acids delivered IV to su
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        The Non-Surgical Nose Job
+                        Premium Amino Acids
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Amino Acids Treatment in Kampala?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Amino Acids Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Experience the healing and nourishing power of amino acids with Refine's bespoke treatment. Crafted under Dr Chirag Kotecha's expertise, this regimen amplifies skin health, muscle wellness, and overall vitality, ensuring a holistic rejuvenation.
                     </p>
@@ -217,7 +217,7 @@ $pageDescription = "A targeted blend of essential amino acids delivered IV to su
                             </div>
                             <div>
                                 <h4 class="font-heading font-semibold text-xl mb-2 text-white">Vast Experience</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with over 800 successful, transformative non-surgical nose jobs performed.</p>
+                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with thousands of successful treatments performed by our expert team.</p>
                             </div>
                         </div>
                     </div>

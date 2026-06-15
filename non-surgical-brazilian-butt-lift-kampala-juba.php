@@ -9,7 +9,7 @@ $pageDescription = "Lift, round, and shape the buttocks without surgery — usin
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- What is Liquid Rhinoplasty? -->
+    <!-- What is Non-Surgical Brazilian Butt Lift -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -20,9 +20,9 @@ $pageDescription = "Lift, round, and shape the buttocks without surgery — usin
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        The Non-Surgical Nose Job
+                        Premium Non-Surgical Brazilian Butt Lift
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Non-Surgical Brazilian Butt Lift in Kampala?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Non-Surgical Brazilian Butt Lift?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         The non-surgical Brazilian butt lift is an innovative treatment that offers a lifted, firmer, and fuller derrière without the need for invasive surgeries. Using dermal fillers and advanced techniques, the procedure augments and contours the buttocks to provide an enviable silhouette.
                     </p>
@@ -108,12 +108,12 @@ $pageDescription = "Lift, round, and shape the buttocks without surgery — usin
         </p>
       </div>
 
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 gs-stagger-bento">
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 gs-stagger-bento">
         <!-- 1: Large Span -->
         <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
           <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Dorsal Humps & Bumps</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Prominent or irregular bumps on the bridge of the nose can be masterfully smoothed and softened, creating a perfectly streamlined, straight appearance from any angle. Our expert team utilizes advanced, evidence-based techniques to address this effectively. We personalize every step of the process to ensure optimal, long-lasting results that harmonize with your natural aesthetics and restore your confidence.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Targeted Fat Reduction</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Stubborn pockets of fat that resist diet and exercise can be precisely reduced using advanced non-surgical and surgical techniques. Our expert team tailors each treatment to your unique body shape, helping you achieve a smoother, more sculpted silhouette.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -122,8 +122,8 @@ $pageDescription = "Lift, round, and shape the buttocks without surgery — usin
         
         <!-- 2 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Asymmetry</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">For noses slightly off-centre or asymmetric, filler creates a flawlessly balanced and harmonious facial symmetry.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Skin Tightening</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Loose or sagging skin following weight loss or ageing can be effectively tightened and contoured for a firmer, more youthful appearance.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -132,8 +132,8 @@ $pageDescription = "Lift, round, and shape the buttocks without surgery — usin
         
         <!-- 3 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Tip Elevation</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">A drooping or heavy nasal tip can be subtly lifted and elegantly refined, rejuvenating the overall profile.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Cellulite Improvement</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Reduce the appearance of cellulite with treatments that target fibrous bands and improve skin texture for a smoother, more even surface.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -142,8 +142,8 @@ $pageDescription = "Lift, round, and shape the buttocks without surgery — usin
         
         <!-- 4 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Bridge Enhancement</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Build up and define a flat nasal bridge for individuals seeking a more pronounced, sculpted architectural structure.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Body Sculpting</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Define and enhance your natural contours, from abdomen and flanks to arms and thighs, creating a balanced, athletic-looking physique.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -152,8 +152,8 @@ $pageDescription = "Lift, round, and shape the buttocks without surgery — usin
         
         <!-- 5 -->
         <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Post-Surgical Fixes</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">A minimally invasive tool to make delicate minor adjustments or brilliant corrections following a previous surgical rhinoplasty.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Post-Weight Loss Contouring</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">After significant weight loss, address remaining concerns like loose skin, stubborn fat pockets, and uneven contours to complete your transformation journey.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -217,7 +217,7 @@ $pageDescription = "Lift, round, and shape the buttocks without surgery — usin
                             </div>
                             <div>
                                 <h4 class="font-heading font-semibold text-xl mb-2 text-white">Vast Experience</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with over 800 successful, transformative non-surgical nose jobs performed.</p>
+                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with thousands of successful treatments performed by our expert team.</p>
                             </div>
                         </div>
                     </div>

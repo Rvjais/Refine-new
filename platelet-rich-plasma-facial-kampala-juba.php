@@ -9,7 +9,7 @@ $pageDescription = "Harness your own growth factors to rejuvenate skin, fade sca
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- What is Liquid Rhinoplasty? -->
+    <!-- What is PRP Facial? -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -20,9 +20,9 @@ $pageDescription = "Harness your own growth factors to rejuvenate skin, fade sca
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        The Non-Surgical Nose Job
+                        Premium PRP Facial
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">PRP Facial in Kampala?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is PRP Facial?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         The PRP Facial, also renowned as the &quot;vampire facial&quot;, taps into the body's natural healing potential. Using a patient's Platelet-Rich Plasma (PRP) revitalises the skin, offering a range of rejuvenating benefits.
                     </p>
@@ -108,12 +108,12 @@ $pageDescription = "Harness your own growth factors to rejuvenate skin, fade sca
         </p>
       </div>
 
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 gs-stagger-bento">
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 gs-stagger-bento">
         <!-- 1: Large Span -->
         <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
           <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Hair Thinning and Loss</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">One of the most distressing aesthetic concerns for many is hair thinning or loss. Age, genetics, hormonal imbalances, or medical conditions can lead to the weakening of hair follicles. Our expert team utilizes advanced, evidence-based techniques to address this effectively. We personalize every step of the process to ensure optimal, long-lasting results that harmonize with your natural aesthetics and restore your confidence.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Hair Restoration</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">PRP therapy stimulates hair follicles and promotes natural hair growth in areas affected by thinning and balding. Our expert team uses your body's own growth factors to revitalise dormant follicles and strengthen existing hair for thicker, fuller results.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -122,8 +122,8 @@ $pageDescription = "Harness your own growth factors to rejuvenate skin, fade sca
         
         <!-- 2 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Fine Lines and Wrinkles</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">PRP promotes skin hydration and plumpness, smoothing wrinkles.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Skin Rejuvenation</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Harness the power of your body's natural healing factors to improve skin texture, tone, and elasticity for a radiant, youthful complexion.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -132,8 +132,8 @@ $pageDescription = "Harness your own growth factors to rejuvenate skin, fade sca
         
         <!-- 3 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Acne Scars and Pigmentation</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Acne scars can be a remnant of adolescent or adult acne bouts, leaving behind uneven skin textures or pigmentation.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Scar Reduction</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Improve the appearance of acne scars, surgical scars, and stretch marks with PRP's collagen-stimulating and tissue-regenerating properties.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -142,8 +142,8 @@ $pageDescription = "Harness your own growth factors to rejuvenate skin, fade sca
         
         <!-- 4 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Bridge Enhancement</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Build up and define a flat nasal bridge for individuals seeking a more pronounced, sculpted architectural structure.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Under-Eye Treatment</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Refresh tired-looking eyes with PRP that rejuvenates the delicate under-eye area, reducing dark circles, fine lines, and hollows.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -152,10 +152,10 @@ $pageDescription = "Harness your own growth factors to rejuvenate skin, fade sca
         
         <!-- 5 -->
         <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Post-Surgical Fixes</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">A minimally invasive tool to make delicate minor adjustments or brilliant corrections following a previous surgical rhinoplasty.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Vampire Facial</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">The iconic PRP facial that combines microneedling with your body's own growth factors for dramatic skin rejuvenation and a natural, glowing complexion.</p>
         
-          <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
+          <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex-items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
           </div>
         </div>
@@ -217,7 +217,7 @@ $pageDescription = "Harness your own growth factors to rejuvenate skin, fade sca
                             </div>
                             <div>
                                 <h4 class="font-heading font-semibold text-xl mb-2 text-white">Vast Experience</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with over 800 successful, transformative non-surgical nose jobs performed.</p>
+                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with thousands of successful treatments performed by our expert team.</p>
                             </div>
                         </div>
                     </div>

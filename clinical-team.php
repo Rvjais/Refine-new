@@ -18,49 +18,9 @@ $pageDescription = "Meet the highly skilled nurses and therapists who ensure you
                 <p class="text-brand-muted font-body text-sm mt-4 font-light max-w-2xl mx-auto">Our clinical team undergoes rigorous, continuous training in global aesthetic standards, ensuring you receive care that is both safe and exceptionally effective.</p>
             </div>
 
-            <!-- Team Grid -->
-            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 gs-stagger-bento">
-                
-                <!-- Member 1 -->
-                <div class="glass-panel p-4 rounded-3xl group bento-item bg-white border border-brand/5 shadow-sm text-center hover:-translate-y-2 transition-transform duration-300">
-                    <div class="aspect-square rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" class="w-full h-full object-cover filter grayscale-[0.3] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
-                    </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-sm mb-1">Amelia N.</h4>
-                    <p class="text-xs text-brand-muted font-light mb-2">Senior Aesthetic Nurse</p>
-                    <span class="inline-block px-2 py-1 bg-brand/5 rounded text-[10px] uppercase tracking-widest text-brand font-semibold">Kampala HQ</span>
-                </div>
-
-                <!-- Member 2 -->
-                <div class="glass-panel p-4 rounded-3xl group bento-item bg-white border border-brand/5 shadow-sm text-center hover:-translate-y-2 transition-transform duration-300">
-                    <div class="aspect-square rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="/assets/imagesfromsite/services/breadcrumbsAll.webp" class="w-full h-full object-cover filter grayscale-[0.3] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
-                    </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-sm mb-1">Sarah K.</h4>
-                    <p class="text-xs text-brand-muted font-light mb-2">Laser Technician</p>
-                    <span class="inline-block px-2 py-1 bg-brand/5 rounded text-[10px] uppercase tracking-widest text-brand font-semibold">Kampala HQ</span>
-                </div>
-
-                <!-- Member 3 -->
-                <div class="glass-panel p-4 rounded-3xl group bento-item bg-white border border-brand/5 shadow-sm text-center hover:-translate-y-2 transition-transform duration-300">
-                    <div class="aspect-square rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="/assets/imagesfromsite/about-8.webp" class="w-full h-full object-cover filter grayscale-[0.3] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
-                    </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-sm mb-1">Grace M.</h4>
-                    <p class="text-xs text-brand-muted font-light mb-2">Senior Therapist</p>
-                    <span class="inline-block px-2 py-1 bg-brand/5 rounded text-[10px] uppercase tracking-widest text-brand font-semibold">Juba Branch</span>
-                </div>
-                
-                <!-- Member 4 -->
-                <div class="glass-panel p-4 rounded-3xl group bento-item bg-white border border-brand/5 shadow-sm text-center hover:-translate-y-2 transition-transform duration-300">
-                    <div class="aspect-square rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="/assets/imagesfromsite/about-8.webp" class="w-full h-full object-cover filter grayscale-[0.3] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
-                    </div>
-                    <h4 class="font-heading font-semibold text-brand-deeper text-sm mb-1">Jane O.</h4>
-                    <p class="text-xs text-brand-muted font-light mb-2">IV Nurse</p>
-                    <span class="inline-block px-2 py-1 bg-brand/5 rounded text-[10px] uppercase tracking-widest text-brand font-semibold">Kampala HQ</span>
-                </div>
-
+            <!-- Team Grid - info coming soon -->
+            <div class="text-center py-12">
+                <p class="text-brand-muted font-body text-sm font-light">Clinical team profiles coming soon.</p>
             </div>
             
             <!-- Join Team CTA -->

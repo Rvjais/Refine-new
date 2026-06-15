@@ -19,7 +19,7 @@ $pageDescription = "Meet Dr. Ahmed Ashraf, our visiting Dermatologist bringing i
                     <div class="sticky top-32">
                         <div class="rounded-[40px] overflow-hidden shadow-2xl mb-8 relative gs-reveal-img-group aspect-[3/4]">
                             <!-- Placeholder Image -->
-                            <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Dr. Ahmed Ashraf" class="w-full h-full object-cover filter grayscale-[0.2] gs-reveal-img" loading="lazy">
+                            <img src="/assets/images/team/dr_Ahmed_Ashraf_Dermatologist.png" alt="Dr. Ahmed Ashraf" class="w-full h-full object-cover filter grayscale-[0.2] gs-reveal-img" loading="lazy">
                             <div class="absolute inset-0 bg-brand-deeper/5"></div>
                         </div>
                         

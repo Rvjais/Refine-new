@@ -9,7 +9,7 @@ $pageDescription = "Cleanse, extract, and hydrate in one luxurious 30-minute tre
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- What is Liquid Rhinoplasty? -->
+    <!-- What is HydraFacial? -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -20,9 +20,9 @@ $pageDescription = "Cleanse, extract, and hydrate in one luxurious 30-minute tre
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        The Non-Surgical Nose Job
+                        Premium HydraFacial
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">HydraFacial in Kampala?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is HydraFacial?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         HydraFacial is a revolutionary skin treatment that cleanses, extracts and hydrates the skin simultaneously. It uses a patented device to deliver exfoliation, pore cleansing, and serum infusion, all in one swift motion, ensuring radiant and youthful skin. Discover the magic of HydraFacial – where innovative skincare meets sheer indulgence. Not just a treatment, HydraFacial is an experience that promises radiant results for every skin type. Here's why it's making waves:
                     </p>
@@ -217,7 +217,7 @@ $pageDescription = "Cleanse, extract, and hydrate in one luxurious 30-minute tre
                             </div>
                             <div>
                                 <h4 class="font-heading font-semibold text-xl mb-2 text-white">Vast Experience</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with over 800 successful, transformative non-surgical nose jobs performed.</p>
+                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with thousands of successful treatments performed by our expert team.</p>
                             </div>
                         </div>
                     </div>

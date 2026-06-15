@@ -19,7 +19,7 @@ $pageDescription = "Meet Dr. William Lubega, a board-certified plastic surgeon s
                     <div class="sticky top-32">
                         <div class="rounded-[40px] overflow-hidden shadow-2xl mb-8 relative gs-reveal-img-group aspect-[3/4]">
                             <!-- Placeholder Image -->
-                            <img src="/assets/imagesfromsite/about2026.webp" alt="Dr. William Lubega" class="w-full h-full object-cover filter grayscale-[0.2] gs-reveal-img" loading="lazy">
+                            <img src="/assets/images/team/Dr_William_Lubega.png" alt="Dr. William Lubega - Plastic Surgeon" class="w-full h-full object-cover filter grayscale-[0.2] gs-reveal-img" loading="lazy">
                             <div class="absolute inset-0 bg-brand-deeper/5"></div>
                         </div>
                         

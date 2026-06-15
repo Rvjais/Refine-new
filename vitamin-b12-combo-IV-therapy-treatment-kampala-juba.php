@@ -9,7 +9,9 @@ $pageDescription = "A power-packed IV of B-complex vitamins and B12 for energy, 
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- What is Liquid Rhinoplasty? -->
+    <!-- Brief About the Process of the Treatment:
+
+ -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -20,11 +22,15 @@ $pageDescription = "A power-packed IV of B-complex vitamins and B12 for energy, 
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        The Non-Surgical Nose Job
+                        Premium Vitamin B12 Combo
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Vitamin B12 Combo in Kampala?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Brief About the Process of the Treatment:?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        Liquid Rhinoplasty, often termed a non-surgical nose job, employs fillers to tweak the nose's shape and profile without the downtime and invasiveness of surgery. Dr Chirag Kotecha masterfully uses this technique, delivering astounding results highlighting a patient's natural beauty.
+                        Vitamin B12 Deficiency: Leading to fatigue, weakness, and cognitive disruptions.
+                                Peripheral Neuropathy: Nerve damage causing tingling, numbness, and pain.
+                                Chronic Fatigue Syndrome: Persistent tiredness affecting daily activities.
+                                Megaloblastic Anemia: Red blood cells are larger than expected, disrupting their function.
+                                Mood Disorders: Like depression and anxiety linked to B vitamin imbalances.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
@@ -217,7 +223,7 @@ $pageDescription = "A power-packed IV of B-complex vitamins and B12 for energy, 
                             </div>
                             <div>
                                 <h4 class="font-heading font-semibold text-xl mb-2 text-white">Vast Experience</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with over 800 successful, transformative non-surgical nose jobs performed.</p>
+                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with thousands of successful treatments performed by our expert team.</p>
                             </div>
                         </div>
                     </div>

@@ -9,7 +9,7 @@ $pageDescription = "Permanent hair reduction with medical-grade laser technology
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- What is Liquid Rhinoplasty? -->
+    <!--  Understanding Laser Hair Removal -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -20,11 +20,11 @@ $pageDescription = "Permanent hair reduction with medical-grade laser technology
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        The Non-Surgical Nose Job
+                        Premium Laser Hair Removal in Uganda
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Laser Hair Removal in Uganda?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Understanding Laser Hair Removal?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        Liquid Rhinoplasty, often termed a non-surgical nose job, employs fillers to tweak the nose's shape and profile without the downtime and invasiveness of surgery. Dr Chirag Kotecha masterfully uses this technique, delivering astounding results highlighting a patient's natural beauty.
+                        Laser hair removal is a medical procedure that uses a concentrated beam of light (laser) to remove unwanted hair. The laser emits a light absorbed by the pigment (melanin) in the hair. The light energy is converted to heat, which damages the hair follicles, inhibiting future hair growth.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
@@ -108,12 +108,12 @@ $pageDescription = "Permanent hair reduction with medical-grade laser technology
         </p>
       </div>
 
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 gs-stagger-bento">
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 gs-stagger-bento">
         <!-- 1: Large Span -->
         <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
           <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Excessive Body Hair</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Caused by genetics, hormonal imbalances, or certain medications. Our expert team utilizes advanced, evidence-based techniques to address this effectively. We personalize every step of the process to ensure optimal, long-lasting results that harmonize with your natural aesthetics and restore your confidence.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Facial Hair</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Permanently reduce unwanted facial hair including upper lip, chin, sideburns, and jawline with our advanced laser technology. Treatments are quick, comfortable, and deliver long-lasting results for smooth, hair-free skin.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -122,8 +122,8 @@ $pageDescription = "Permanent hair reduction with medical-grade laser technology
         
         <!-- 2 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Ingrown Hair</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Hairs that curl back and grow into the skin.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Body Hair</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Effective hair reduction for legs, arms, underarms, bikini line, back, chest, and abdomen for smooth, carefree skin.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -132,8 +132,8 @@ $pageDescription = "Permanent hair reduction with medical-grade laser technology
         
         <!-- 3 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Hirsutism</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Often caused by polycystic ovary syndrome (PCOS) or other hormonal conditions.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Ingrown Hairs</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Eliminate painful, unsightly ingrown hairs by permanently reducing hair growth in problem areas prone to razor bumps and irritation.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -142,8 +142,8 @@ $pageDescription = "Permanent hair reduction with medical-grade laser technology
         
         <!-- 4 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Bridge Enhancement</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Build up and define a flat nasal bridge for individuals seeking a more pronounced, sculpted architectural structure.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Hormonal Hair Growth</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Address excessive hair growth caused by hormonal conditions like PCOS with comprehensive laser treatments tailored to your needs.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -152,8 +152,8 @@ $pageDescription = "Permanent hair reduction with medical-grade laser technology
         
         <!-- 5 -->
         <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Post-Surgical Fixes</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">A minimally invasive tool to make delicate minor adjustments or brilliant corrections following a previous surgical rhinoplasty.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Skin Discolouration</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Laser hair removal also helps reduce dark spots and hyperpigmentation caused by shaving and waxing for an even, radiant skin tone.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -217,7 +217,7 @@ $pageDescription = "Permanent hair reduction with medical-grade laser technology
                             </div>
                             <div>
                                 <h4 class="font-heading font-semibold text-xl mb-2 text-white">Vast Experience</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with over 800 successful, transformative non-surgical nose jobs performed.</p>
+                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with thousands of successful treatments performed by our expert team.</p>
                             </div>
                         </div>
                     </div>

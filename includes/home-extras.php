@@ -190,11 +190,11 @@
             </a>
         </div>
 
-        <div id="doctors-grid" class="grid grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 gs-stagger-bento">
+        <div id="doctors-grid" class="grid grid-cols-2 lg:grid-cols-5 gap-5 lg:gap-7 gs-stagger-bento">
             <!-- Dr 1 (Chirag) -->
             <a href="dr-chirag-kotecha-dermatologist-in-uganda" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
-                    <img src="/assets/imagesfromsite/doc.webp" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
+                    <img src="/assets/images/team/dr_chirag_kotecha.png" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
                     <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-transparent to-transparent"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-5">
                         <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Dermatologist</p>
@@ -235,6 +235,18 @@
                     <div class="absolute bottom-0 left-0 right-0 p-5">
                         <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Nutritionist</p>
                         <h4 class="font-display text-xl text-white">Wendy Emyedu</h4>
+                    </div>
+                </div>
+            </a>
+
+            <!-- Dr 5 (Vicky) -->
+            <a href="about-dr-vicky-koojo-nganzi-dermatologist-in-uganda" class="group block bento-item">
+                <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
+                    <img src="/assets/images/team/Dr_Vicky_Koojo_Nganzi.png" alt="Dr. Vicky Koojo Nganzi" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
+                    <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-transparent to-transparent"></div>
+                    <div class="absolute bottom-0 left-0 right-0 p-5">
+                        <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Dermatologist</p>
+                        <h4 class="font-display text-xl text-white">Dr. Vicky Koojo Nganzi</h4>
                     </div>
                 </div>
             </a>

@@ -118,14 +118,6 @@ $pageDescription = "We are always looking for passionate, skilled professionals 
             <h3 class="text-section font-display leading-tight max-w-3xl mx-auto mb-8">
                 "Working here isn't just about administering treatments; it's about being part of a team that genuinely cares about elevating the standards of aesthetic medicine in Africa. The training and support from management are unprecedented."
             </h3>
-            
-            <div class="flex items-center justify-center gap-4">
-                <div class="w-12 h-12 rounded-full bg-white/10 text-white flex items-center justify-center font-display text-xl border border-white/20">A</div>
-                <div class="text-left">
-                    <h4 class="font-heading font-semibold text-sm">Amelia N.</h4>
-                    <p class="text-xs text-white/50 font-light">Senior Aesthetic Nurse</p>
-                </div>
-            </div>
 
         </div>
     </section>
